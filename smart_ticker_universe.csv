@@ -1,0 +1,2076 @@
+Ticker,Name
+SCHW,Charles Schwab Corporation (The)
+AFL,AFLAC Incorporated
+MRSH,Marsh
+EBAY,eBay Inc
+DOV,Dover Corporation
+CPT,Camden Property Trust
+BIIB,Biogen Inc
+HSY,The Hershey Company
+P,"Everpure, Inc. Class A"
+SOLV,Solventum Corporation
+VRSN,"VeriSign, Inc"
+ALLE,Allegion plc
+MOS,Mosaic Company (The)
+LULU,lululemon athletica inc
+LUV,Southwest Airlines Company
+LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)
+SLB,SLB Limited Common Shares
+WM,"Waste Management, Inc"
+GNRC,Generac Holdlings Inc
+MO,"Altria Group, Inc"
+GWW,"W.W. Grainger, Inc"
+XYZ,"Block, Inc. Class A Common Stock"
+BKNG,Booking Holdings Inc
+ILMN,"Illumina, Inc"
+PSX,Phillips 66
+AVGO,Broadcom Inc
+MU,"Micron Technology, Inc"
+TYL,"Tyler Technologies, Inc"
+AMP,"Ameriprise Financial, Inc"
+ALB,Albemarle Corporation
+NVDA,NVIDIA Corporation
+FOX,Fox Corporation - Class B
+PWR,"Quanta Services, Inc"
+CVS,CVS Health Corporation
+AON,Aon plc Class A Ordinary Shares (Ireland)
+MCK,McKesson Corporation
+CCI,Crown Castle Inc
+WELL,Welltower Inc
+FANG,"Diamondback Energy, Inc"
+EXPE,"Expedia Group, Inc"
+MA,Mastercard Incorporated
+SPG,"Simon Property Group, Inc"
+CRH,CRH PLC
+UDR,"UDR, Inc"
+MAR,Marriott International - Class A
+MCHP,Microchip Technology Incorporated
+IBKR,"Interactive Brokers Group, Inc. - Class A"
+META,"Meta Platforms, Inc. - Class A"
+CEG,Constellation Energy Corporation - Common Stock When-Issued
+PLTR,Palantir Technologies Inc. - Class A
+VTR,"Ventas, Inc"
+FFIV,"F5, Inc"
+MMM,3M Company
+ETR,Entergy Corporation
+TKO,"TKO Group Holdings, Inc. Class A"
+EXE,Expand Energy Corporation
+INTC,Intel Corporation
+WYNN,"Wynn Resorts, Limited"
+DAL,"Delta Air Lines, Inc"
+HCA,"HCA Healthcare, Inc"
+BA,Boeing Company (The)
+ITW,Illinois Tool Works Inc
+TSCO,Tractor Supply Company
+TFC,Truist Financial Corporation
+ROP,"Roper Technologies, Inc"
+JBL,Jabil Inc
+PFE,"Pfizer, Inc"
+VMRK,Vivmark Residential Common Shares of Beneficial Interest
+BALL,Ball Corporation
+D,"Dominion Energy, Inc"
+SPGI,S&P Global Inc
+SYK,Stryker Corporation
+PRU,"Prudential Financial, Inc"
+IR,Ingersoll Rand Inc
+NTAP,"NetApp, Inc"
+XOM,ExxonMobil Holdings Corporation
+AAPL,Apple Inc
+DRI,"Darden Restaurants, Inc"
+TGT,Target Corporation
+TT,Trane Technologies plc
+WBD,"Warner Bros. Discovery, Inc. - Series A"
+CRM,"Salesforce, Inc"
+BE,Bloom Energy Corporation Class A
+WY,Weyerhaeuser Company
+LNT,Alliant Energy Corporation
+FTNT,"Fortinet, Inc"
+ATO,Atmos Energy Corporation
+SNPS,"Synopsys, Inc"
+ARE,"Alexandria Real Estate Equities, Inc"
+FRT,Federal Realty Investment Trust
+SNA,Snap-On Incorporated
+HOOD,"Robinhood Markets, Inc. - Class A"
+XEL,Xcel Energy Inc
+IT,"Gartner, Inc"
+EW,Edwards Lifesciences Corporation
+KDP,Keurig Dr Pepper Inc
+CBRE,CBRE Group Inc Common Stock Class A
+CIEN,Ciena Corporation
+LITE,Lumentum Holdings Inc
+MDLZ,"Mondelez International, Inc. - Class A"
+HAL,Halliburton Company
+VEEV,Veeva Systems Inc. Class A
+FDXF,"FedEx Freight Holding Company, Inc"
+UPS,"United Parcel Service, Inc"
+TROW,"T. Rowe Price Group, Inc"
+EFX,"Equifax, Inc"
+CAH,"Cardinal Health, Inc"
+WST,"West Pharmaceutical Services, Inc"
+IQV,"IQVIA Holdings, Inc"
+WFC,Wells Fargo & Company
+A,"Agilent Technologies, Inc"
+PAYX,"Paychex, Inc"
+LMT,Lockheed Martin Corporation
+CHRW,"C.H. Robinson Worldwide, Inc"
+DOC,"Healthpeak Properties, Inc"
+KO,Coca-Cola Company (The)
+HIG,"The Hartford Insurance Group, Inc"
+TPR,"Tapestry, Inc"
+AVY,Avery Dennison Corporation
+MSFT,Microsoft Corporation
+PCG,Pacific Gas & Electric Co
+HD,"Home Depot, Inc. (The)"
+HSIC,"Henry Schein, Inc"
+NVR,"NVR, Inc"
+DVA,DaVita Inc
+CTAS,Cintas Corporation
+TMO,Thermo Fisher Scientific Inc
+TER,"Teradyne, Inc"
+INVH,Invitation Homes Inc
+APH,Amphenol Corporation
+ICE,Intercontinental Exchange Inc
+GLW,Corning Incorporated
+COIN,"Coinbase Global, Inc. - Class A"
+KR,Kroger Company (The)
+HUBB,Hubbell Inc
+UBER,"Uber Technologies, Inc"
+FTV,Fortive Corporation
+DE,Deere & Company
+SW,Smurfit WestRock plc
+RJF,"Raymond James Financial, Inc"
+ON,ON Semiconductor Corporation
+NCLH,Norwegian Cruise Line Holdings Ltd
+RMD,ResMed Inc
+PODD,Insulet Corporation
+AOS,A.O. Smith Corporation
+CB,Chubb Limited
+SRE,DBA Sempra
+APA,APA Corporation
+ZBRA,Zebra Technologies Corporation - Class A
+BAC,Bank of America Corporation
+CFG,"Citizens Financial Group, Inc"
+NTRS,Northern Trust Corporation
+COR,"Cencora, Inc"
+PPG,"PPG Industries, Inc"
+BDX,"Becton, Dickinson and Company"
+DLR,"Digital Realty Trust, Inc"
+COST,Costco Wholesale Corporation
+FERG,Ferguson Enterprises Inc
+STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland)
+MPC,Marathon Petroleum Corporation
+EQT,EQT Corporation
+CRWD,"CrowdStrike Holdings, Inc. - Class A"
+MRK,"Merck & Company, Inc. Common Stock (new)"
+ULTA,"Ulta Beauty, Inc"
+AMD,"Advanced Micro Devices, Inc"
+PH,Parker-Hannifin Corporation
+PGR,Progressive Corporation (The)
+WAT,Waters Corporation
+C,"Citigroup, Inc"
+FLEX,Flex Ltd
+PANW,"Palo Alto Networks, Inc"
+AEP,"American Electric Power Company, Inc"
+CRL,"Charles River Laboratories International, Inc"
+GE,GE Aerospace
+IVZ,Invesco Ltd
+FIS,"Fidelity National Information Services, Inc"
+TSN,"Tyson Foods, Inc"
+FDX,FedEx Corporation
+HII,"Huntington Ingalls Industries, Inc"
+IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT
+ES,Eversource Energy (D/B/A)
+JPM,JP Morgan Chase & Co
+MTD,"Mettler-Toledo International, Inc"
+NOC,Northrop Grumman Corporation
+WDAY,"Workday, Inc. - Class A"
+EXC,Exelon Corporation
+DHR,Danaher Corporation
+ADBE,Adobe Inc
+PSKY,Paramount Skydance Corporation - Class B
+SYF,Synchrony Financial
+CMCSA,Comcast Corporation - Class A
+NDSN,Nordson Corporation
+ARES,Ares Management Corporation Class A
+EXR,Extra Space Storage Inc
+DHI,"D.R. Horton, Inc"
+ABT,Abbott Laboratories
+NKE,"Nike, Inc"
+NEE,"NextEra Energy, Inc"
+CTSH,Cognizant Technology Solutions Corporation - Class A
+CLX,Clorox Company (The)
+AZO,"AutoZone, Inc"
+ROST,"Ross Stores, Inc"
+LVS,Las Vegas Sands Corp
+EIX,Edison International
+RF,Regions Financial Corporation
+CPRT,"Copart, Inc"
+DG,Dollar General Corporation
+TTWO,"Take-Two Interactive Software, Inc"
+DOW,Dow Inc
+F,Ford Motor Company
+FISV,"Fiserv, Inc"
+STLD,"Steel Dynamics, Inc"
+IBM,International Business Machines Corporation
+URI,"United Rentals, Inc"
+CINF,Cincinnati Financial Corporation
+RSG,"Republic Services, Inc"
+UAL,"United Airlines Holdings, Inc"
+AMZN,"Amazon.com, Inc"
+ABNB,"Airbnb, Inc. - Class A"
+RL,Ralph Lauren Corporation
+FAST,Fastenal Company
+STZ,"Constellation Brands, Inc"
+FE,FirstEnergy Corp
+UNH,UnitedHealth Group Incorporated Common Stock
+NEM,Newmont Corporation
+WAB,Westinghouse Air Brake Technologies Corporation
+ED,"Consolidated Edison, Inc"
+SO,Southern Company (The)
+VST,Vistra Corp
+LYV,"Live Nation Entertainment, Inc"
+PLD,"Prologis, Inc"
+CMG,"Chipotle Mexican Grill, Inc"
+KIM,Kimco Realty Corporation (HC)
+BNY,The Bank of New York Mellon Corporation
+ZTS,Zoetis Inc. Class A
+PM,Philip Morris International Inc
+USB,U.S. Bancorp
+BSX,Boston Scientific Corporation
+INCY,Incyte Corporation
+KLAC,KLA Corporation
+HST,"Host Hotels & Resorts, Inc"
+TEL,TE Connectivity plc
+L,Loews Corporation
+KKR,KKR & Co. Inc
+APP,Applovin Corporation - Class A
+ADSK,"Autodesk, Inc"
+JCI,Johnson Controls International plc Ordinary Share
+OXY,Occidental Petroleum Corporation
+CSCO,"Cisco Systems, Inc"
+FICO,Fair Isaac Corporation
+OTIS,Otis Worldwide Corporation
+SWK,"Stanley Black & Decker, Inc"
+ALGN,"Align Technology, Inc"
+KEYS,Keysight Technologies Inc
+SHW,Sherwin-Williams Company (The)
+COO,"The Cooper Companies, Inc"
+CME,CME Group Inc. - Class A
+WEC,"WEC Energy Group, Inc"
+GM,General Motors Company
+DTE,DTE Energy Company
+SBAC,SBA Communications Corporation - Class A
+TXT,Textron Inc
+ABBV,AbbVie Inc
+CSX,CSX Corporation
+PEG,Public Service Enterprise Group Incorporated
+ROL,"Rollins, Inc"
+ZBH,"Zimmer Biomet Holdings, Inc"
+ECHO,EchoStar Corporation
+AIG,"American International Group, Inc. New"
+ERIE,Erie Indemnity Company - Class A
+DELL,Dell Technologies Inc. Class C
+PEP,"PepsiCo, Inc"
+AEE,Ameren Corporation
+PTC,PTC Inc
+CDNS,"Cadence Design Systems, Inc"
+DXCM,"DexCom, Inc"
+DASH,"DoorDash, Inc"
+GILD,"Gilead Sciences, Inc"
+JNJ,Johnson & Johnson
+Q,"Qnity Electronics, Inc"
+CDW,CDW Corporation
+OMC,Omnicom Group Inc
+CMS,CMS Energy Corporation
+ODFL,"Old Dominion Freight Line, Inc"
+SYY,Sysco Corporation
+LDOS,"Leidos Holdings, Inc"
+ACGL,Arch Capital Group Ltd
+NI,NiSource Inc
+CARR,Carrier Global Corporation
+TJX,"TJX Companies, Inc. (The)"
+CVX,Chevron Corporation
+ELV,"Elevance Health, Inc"
+MSCI,MSCI Inc
+STE,STERIS plc (Ireland)
+YUM,"Yum! Brands, Inc"
+ALL,Allstate Corporation (The)
+DLTR,"Dollar Tree, Inc"
+CMI,Cummins Inc
+ADM,Archer-Daniels-Midland Company
+LRCX,Lam Research Corporation
+KEY,KeyCorp
+BG,Bunge Limited Common Shares
+QCOM,QUALCOMM Incorporated
+EQIX,"Equinix, Inc"
+GPN,Global Payments Inc
+O,Realty Income Corporation
+UNP,Union Pacific Corporation
+MS,Morgan Stanley
+TRGP,"Targa Resources, Inc"
+COHR,Coherent Corp
+EMR,Emerson Electric Company
+TMUS,"T-Mobile US, Inc"
+AES,The AES Corporation
+PNW,Pinnacle West Capital Corporation
+LH,Labcorp Holdings Inc
+BF-B,BF-B
+WTW,Willis Towers Watson Public Limited Company
+HWM,Howmet Aerospace Inc
+BRO,"Brown & Brown, Inc"
+ANET,"Arista Networks, Inc"
+CVNA,Carvana Co. Class A
+EOG,"EOG Resources, Inc"
+TDG,Transdigm Group Incorporated
+NXPI,NXP Semiconductors N.V
+LHX,"L3Harris Technologies, Inc"
+HAS,"Hasbro, Inc"
+AIZ,"Assurant, Inc"
+PSA,Public Storage
+KHC,The Kraft Heinz Company
+GEN,Gen Digital Inc
+PHM,"PulteGroup, Inc"
+BX,Blackstone Inc
+VMC,Vulcan Materials Company (Holding Company)
+HRL,Hormel Foods Corporation
+TDY,Teledyne Technologies Incorporated
+CBOE,"Cboe Global Markets, Inc"
+NOW,"ServiceNow, Inc"
+CTVA,"Corteva, Inc"
+WDC,Western Digital Corporation
+FSLR,"First Solar, Inc"
+CNP,"CenterPoint Energy, Inc (Holding Co)"
+VLTO,Veralto Corp
+VZ,Verizon Communications Inc
+COF,Capital One Financial Corporation
+MSI,"Motorola Solutions, Inc"
+MTB,M&T Bank Corporation
+T,AT&T Inc
+AMAT,"Applied Materials, Inc"
+GEHC,GE HealthCare Technologies Inc
+NFLX,"Netflix, Inc"
+WMT,Walmart Inc
+DPZ,Domino's Pizza Inc
+MET,"MetLife, Inc"
+CAT,"Caterpillar, Inc"
+NSC,Norfolk Southern Corporation
+XYL,Xylem Inc. Common Stock New
+AJG,Arthur J. Gallagher & Co
+COP,ConocoPhillips
+HPQ,HP Inc
+CNC,Centene Corporation
+WSM,"Williams-Sonoma, Inc. Common Stock"
+PCAR,PACCAR Inc
+VICI,VICI Properties Inc
+LIN,Linde plc
+RDDT,"Reddit, Inc. Class A"
+ACN,Accenture plc Class A Ordinary Shares (Ireland)
+PYPL,"PayPal Holdings, Inc"
+NWSA,News Corporation - Class A
+DIS,Walt Disney Company (The)
+GD,General Dynamics Corporation
+MKC,"McCormick & Company, Incorporated"
+PFG,Principal Financial Group Inc
+APTV,Aptiv PLC
+BEN,"Franklin Templeton, Inc"
+MLM,"Martin Marietta Materials, Inc"
+VRTX,Vertex Pharmaceuticals Incorporated
+NWS,News Corporation - Class B
+CHTR,"Charter Communications, Inc. - Class A"
+APO,"Apollo Global Management, Inc. (New)"
+FITB,Fifth Third Bancorp
+BXP,"BXP, Inc"
+FCX,"Freeport-McMoRan, Inc"
+ISRG,"Intuitive Surgical, Inc"
+IP,International Paper Company
+AMCR,Amcor plc
+TECH,Bio-Techne Corp
+OKE,"ONEOK, Inc"
+AME,"AMETEK, Inc"
+V,Visa Inc
+TPL,Texas Pacific Land Corporation
+HPE,Hewlett Packard Enterprise Company
+BAX,Baxter International Inc
+WMB,"Williams Companies, Inc. (The)"
+ESS,"Essex Property Trust, Inc"
+CI,The Cigna Group
+DDOG,"Datadog, Inc. - Class A"
+GDDY,GoDaddy Inc. Class A
+AXON,"Axon Enterprise, Inc"
+DECK,Deckers Outdoor Corporation
+REG,Regency Centers Corporation
+BKR,Baker Hughes Company
+MAA,"Mid-America Apartment Communities, Inc"
+HLT,Hilton Worldwide Holdings Inc
+BRK-B,BRK-B
+ORCL,Oracle Corporation
+CASY,"Caseys General Stores, Inc"
+RTX,RTX Corporation
+KMI,"Kinder Morgan, Inc"
+CPAY,"Corpay, Inc"
+MGM,MGM Resorts International
+PKG,Packaging Corporation of America
+DUK,Duke Energy Corporation (Holding Company)
+BR,"Broadridge Financial Solutions, Inc"
+FIX,"Comfort Systems USA, Inc"
+EG,"Everest Group, Ltd"
+TXN,Texas Instruments Incorporated
+PNC,"PNC Financial Services Group, Inc. (The)"
+MCO,Moody's Corporation
+TRV,"The Travelers Companies, Inc"
+VLO,Valero Energy Corporation
+JKHY,"Jack Henry & Associates, Inc"
+CF,"CF Industries Holdings, Inc"
+PNR,Pentair plc. Ordinary Share
+KMB,Kimberly-Clark Corporation
+RVTY,"Revvity, Inc"
+HBAN,Huntington Bancshares Incorporated
+PPL,PPL Corporation
+MNST,Monster Beverage Corporation
+BMY,Bristol-Myers Squibb Company
+GIS,"General Mills, Inc"
+DVN,Devon Energy Corporation
+DGX,Quest Diagnostics Incorporated
+EXPD,"Expeditors International of Washington, Inc"
+GPC,Genuine Parts Company
+GOOGL,Alphabet Inc. - Class A
+DD,"DuPont de Nemours, Inc"
+HON,Honeywell International Inc
+CL,Colgate-Palmolive Company
+IDXX,"IDEXX Laboratories, Inc"
+SJM,The J.M. Smucker Company
+REGN,"Regeneron Pharmaceuticals, Inc"
+GOOG,Alphabet Inc. - Class C Capital Stock
+NDAQ,"Nasdaq, Inc"
+MRNA,"Moderna, Inc"
+MRVL,"Marvell Technology, Inc"
+RCL,Royal Caribbean Cruises Ltd
+PG,Procter & Gamble Company (The)
+LLY,Eli Lilly and Company
+MCD,McDonald's Corporation
+ROK,"Rockwell Automation, Inc"
+CHD,"Church & Dwight Company, Inc"
+MDT,Medtronic plc
+J,Jacobs Solutions Inc
+MAS,Masco Corporation
+ADP,"Automatic Data Processing, Inc"
+GEV,GE Vernova Inc
+SMCI,"Super Micro Computer, Inc"
+VRSK,"Verisk Analytics, Inc"
+LOW,"Lowe's Companies, Inc"
+AWK,"American Water Works Company, Inc"
+INTU,Intuit Inc
+HONA,Honeywell Aerospace Inc
+CCL,Carnival Corporation Ltd. Common Shares
+JBHT,"J.B. Hunt Transport Services, Inc"
+LEN,Lennar Corporation Class A
+NUE,Nucor Corporation
+TRMB,Trimble Inc
+VRT,"Vertiv Holdings, LLC Class A"
+NRG,"NRG Energy, Inc"
+EVRG,"Evergy, Inc"
+FDS,FactSet Research Systems Inc
+WRB,W.R. Berkley Corporation
+SNDK,Sandisk Corporation - Common Stock When-Issued
+BBY,"Best Buy Co., Inc"
+AXP,American Express Company
+FOXA,Fox Corporation - Class A
+AMT,American Tower Corporation (REIT)
+VTRS,Viatris Inc
+EME,"EMCOR Group, Inc"
+HUM,Humana Inc
+UHS,"Universal Health Services, Inc"
+AMGN,Amgen Inc
+EL,"Estee Lauder Companies, Inc. (The)"
+AKAM,"Akamai Technologies, Inc"
+IFF,"International Flavors & Fragrances, Inc"
+BLK,"BlackRock, Inc"
+KVUE,Kenvue Inc
+APD,"Air Products and Chemicals, Inc"
+ADI,"Analog Devices, Inc"
+GRMN,Garmin Ltd. Common Stock (Switzerland)
+STT,State Street Corporation
+ETN,"Eaton Corporation, PLC"
+GS,"Goldman Sachs Group, Inc. (The)"
+IEX,IDEX Corporation
+MPWR,"Monolithic Power Systems, Inc"
+SBUX,Starbucks Corporation
+SWKS,"Skyworks Solutions, Inc"
+GL,Globe Life Inc
+TSLA,"Tesla, Inc"
+ECL,Ecolab Inc
+CSGP,"CoStar Group, Inc"
+ORLY,"O'Reilly Automotive, Inc"
+LII,"Lennox International, Inc"
+RKLB,Rocket Lab Corporation
+CCEP,Coca-Cola Europacific Partners plc
+TRI,Thomson Reuters Corp - Common Shares
+ALAB,"Astera Labs, Inc"
+ASML,ASML Holding N.V. - New York Registry Shares
+SPCX,Space Exploration Technologies Corp. - Class A
+ALNY,"Alnylam Pharmaceuticals, Inc"
+SHOP,Shopify Inc. - Class A Subordinate Voting Shares
+MSTR,Strategy Inc - Class A
+CRWV,"CoreWeave, Inc. - Class A"
+PDD,PDD Holdings Inc
+FER,Ferrovial N.V
+ARM,Arm Holdings plc
+NBIS,Nebius Group N.V. - Class A
+MELI,"MercadoLibre, Inc"
+AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares"
+AACOU,Abony Acquisition Corp. I - Units
+AACPW,Apogee Acquisition Corp - Warrant
+AARD,"Aardvark Therapeutics, Inc"
+ABLVW,Able View Global Inc. - Warrant
+ABUS,Arbutus Biopharma Corporation
+ACAAW,Averin Capital Acquisition Corp. - Warrants
+ACDC,ProFrac Holding Corp. - Class A
+ACGCW,ACP Holdings Acquisition Corp. - Warrants
+ACIC,American Coastal Insurance Corporation
+ACNB,ACNB Corporation
+ACRS,"Aclaris Therapeutics, Inc"
+ADAC,American Drive Acquisition Company - Class A
+ADAMG,"Adamas Trust, Inc. - 9.125% Senior Notes Due 2030"
+ADAMM,"Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+ADEA,Adeia Inc
+ADSEW,ADS-TEC ENERGY PLC - Warrant
+ADVB,Advanced Biomed Inc
+AEBI,Aebi Schmidt Holding AG
+AEIS,"Advanced Energy Industries, Inc"
+AERTW,"Aeries Technology, Inc. - Warrant"
+AEVA,"Aeva Technologies, Inc"
+AFRM,"Affirm Holdings, Inc. - Class A"
+AGMB,AgomAb Therapeutics NV - ADRs representing one common share
+AGNCN,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock"
+AGPU,Axe Compute Inc
+AIAI,AIAI Holdings Corporation - Class A
+AIIO,Robo.ai Inc. - Class B
+AIOS,AIOS Tech Inc. - Class A Common Shares
+AIRJ,AirJoule Technologies Corporation - Class A
+AIRTP,"Air T, Inc. - Trust Preferred Securities"
+AKTX,Akari Therapeutics Plc
+ALDX,"Aldeyra Therapeutics, Inc"
+ALGM,"Allegro MicroSystems, Inc"
+ALISU,Calisa Acquisition Corp - Units
+ALLT,Allot Ltd
+ALNT,Allient Inc
+ALP,Alpha Compute Corp
+ALRM,"Alarm.com Holdings, Inc"
+ALVO,Alvotech
+AMACW,AMR Resources Acquisition Corp - Warrants
+AMCI,AMC Robotics Corporation
+AMOD,"Alpha Modus Holdings, Inc. - Class A"
+AMPL,"Amplitude, Inc. - Class A"
+AMST,Amesite Inc
+ANGHW,Anghami Inc. - Warrants
+ANIX,"Anixa Biosciences, Inc"
+ANPA,Rich Sparkle Holdings Limited
+APAC,StoneBridge Acquisition II Corporation - Class A
+API,"Agora, Inc. - ADS"
+APMCR,AmperCap Acquisition Company - Right
+APPN,Appian Corporation - Class A
+APWC,"Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share"
+AQB,"AquaBounty Technologies, Inc"
+ARBK,Argo Blockchain plc
+ARCIW,Archimedes Tech SPAC Partners III Co. - Warrant
+ARDX,"Ardelyx, Inc"
+ARLP,"Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests"
+ARRY,"Array Technologies, Inc"
+ARTNA,Artesian Resources Corporation - Class A Non-Voting
+ARXS,"Arxis, Inc. - Class A"
+ASND,Ascendis Pharma A/S - Ordinary Share
+ASPSZ,Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants
+ASTH,Astrana Health Inc
+ASUR,Asure Software Inc
+ATEX,Anterix Inc
+ATIIU,Archimedes Tech SPAC Partners II Co. - Unit
+ATLCZ,Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029
+ATLQW,JAB Acquisition Corp I - Warrants
+ATPC,Agape ATP Corporation
+ATTT,Atlas Trinity Tech Limited
+AUGO,Aura Minerals Inc. - Common Shares
+AUROW,"Aurora Innovation, Inc.  - Warrant"
+AVBP,"ArriVent BioPharma, Inc"
+AVPT,"AvePoint, Inc. - Class A"
+AVXL,Anavex Life Sciences Corp
+AXINR,Axiom Intelligence Acquisition Corp 1 - Right
+AYTU,"Aytu BioPharma, Inc"
+BACCR,Blue Acquisition Corp. - Right
+BAND,Bandwidth Inc. - Class A
+BANX,ArrowMark Financial Corp. - Closed End Fund
+BBGI,"Beasley Broadcast Group, Inc. - Class A"
+BBSI,"Barrett Business Services, Inc"
+BCCQU,Bleichroeder Acquisition Corp. III - Units
+BCIC,BCP Investment Corporation - Closed End Fund
+BCTXL,BriaCell Therapeutics Corp. - Warrants
+BDCIW,BTC Development Corp. - Warrant
+BDTX,"Black Diamond Therapeutics, Inc"
+BEATW,"Heartbeam, Inc. - Warrant"
+BENF,Beneficient - Class A
+BFRGW,"Bullfrog AI Holdings, Inc. - Warrants"
+BGDE,"Big Digital Energy, Inc"
+BHAV,BHAV Acquisition Corp - Class A
+BHFAM,"Brighthouse Financial, Inc. - Depositary shares each representing a 1/1,000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series D"
+BHST,BioHarvest Sciences Inc
+BIDWR,Tribeca Strategic Acquisition Corp. - Rights
+BIVI,BioVie Inc
+BIYA,Baiya International Group Inc
+BKHAU,Black Hawk Acquisition Corporation - Units
+BLFS,"BioLife Solutions, Inc"
+BLMN,"Bloomin' Brands, Inc"
+BLRX,BioLineRx Ltd
+BLUWW,Blue Water Acquisition Corp. III - Warrant
+BMBL,Bumble Inc
+BMR,Beamr Imaging Ltd. - Ordinary Share
+BNAIW,Brand Engagement Network Inc. - Warrant
+BNKK,"Bonk, Inc"
+BOF,BranchOut Food Inc
+BOOM,DMC Global Inc
+BPAC,Blueport Acquisition Ltd - Class A
+BPRN,"Princeton Bancorp, Inc"
+BRAG,Bragg Gaming Group Inc. - Common Shares
+BRKH,Burtech Acquisition Corp II - Class A
+BRLT,"Brilliant Earth Group, Inc. - Class A"
+BRTMW,B&R Technology Merger Corp. - Warrants
+BSEM,"BioStem Technologies, Inc"
+BSVN,Bank7 Corp
+BTCS,BTCS Inc
+BTSG,"BrightSpring Health Services, Inc"
+BUSEP,"First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value"
+BWAY,BrainsWay Ltd
+BWIN,"The Baldwin Insurance Group, Inc. - Class A"
+BYND,"Beyond Meat, Inc"
+BZFD,"BuzzFeed, Inc. - Class A"
+CAC,Camden National Corporation
+CAI,"Caris Life Sciences, Inc"
+CALC,"CalciMedica, Inc"
+CAPNU,Cayson Acquisition Corp - Units
+CAR,"Avis Budget Group, Inc"
+CASH,"Pathward Financial, Inc"
+CATLU,Catalyst Acquisition Corp. - Units
+CBK,"Commercial Bancgroup, Inc"
+CBSH,"Commerce Bancshares, Inc"
+CCAQW,Collective Acquisition Corp. - Warrants
+CCCT,Columbus Circle Capital Corp III - Class A
+CCG,Cheche Group Inc. - Class A
+CCIIW,Cohen Circle Acquisition Corp. II - Warrant
+CCSI,"Consensus Cloud Solutions, Inc"
+CDIO,Cardio Diagnostics Holdings Inc
+CDRO,"Codere Online Luxembourg, S.A"
+CDXS,"Codexis, Inc"
+CELH,"Celsius Holdings, Inc"
+CENX,Century Aluminum Company
+CEPV,"Cantor Equity Partners V, Inc. - Class A"
+CEVA,"CEVA, Inc"
+CGABL,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061
+CGCFW,Cartesian Growth Corporation IV - Warrants
+CGO,Calamos Global Total Return Fund - Closed End Fund
+CHAD,DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock
+CHCO,City Holding Company
+CHEF,"The Chefs' Warehouse, Inc"
+CHNR,"China Natural Resources, Inc. - Common Shares"
+CHRD,Chord Energy Corporation
+CHSCN,CHS Inc - Preferred Class B Series 2 Reset Rate
+CHW,Calamos Global Dynamic Income Fund - Closed End Fund
+CIGI,Colliers International Group Inc.  - Subordinate Voting Shares
+CIVB,"Civista Bancshares, Inc"
+CLFD,"Clearfield, Inc"
+CLMB,"Climb Global Solutions, Inc"
+CLPS,CLPS Incorporation
+CLST,"Catalyst Bancorp, Inc"
+CMMB,Chemomab Therapeutics Ltd
+CMRC,"Commerce.com, Inc. - Series 1"
+CNDT,Conduent Incorporated
+CNSP,"CNS Pharmaceuticals, Inc"
+CNVS,Cineverse Corp. - Class A
+COCHW,"Envoy Medical, Inc. - Warrant"
+COFS,"ChoiceOne Financial Services, Inc"
+COLL,"Collegium Pharmaceutical, Inc"
+CORZW,"Core Scientific, Inc. - Tranche 1 Warrants"
+CPHC,Canterbury Park Holding Corporation
+CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund
+CRAI,"CRA International,Inc"
+CRAQR,Cal Redwood Acquisition Corp. - Right
+CRDF,"Cardiff Oncology, Inc"
+CREX,"Creative Realities, Inc"
+CRML,Critical Metals Corp
+CRON,Cronos Group Inc. - Common Share
+CRUS,"Cirrus Logic, Inc"
+CSAI,"Cloudastructure, Inc. - Class A"
+CSPI,CSP Inc
+CTAA,ClearThink 1 Acquisition Corp. - Class A
+CTMX,"CytomX Therapeutics, Inc"
+CTW,CTW - Class A
+CULP,"Culp, Inc. - Common Shares"
+CUVL,Clinuvel Pharmaceuticals Limited
+CVKD,"Cadrenal Therapeutics, Inc"
+CWCO,Consolidated Water Co. Ltd
+CXII,Churchill Capital Corp XII - Class A
+CYN,Cyngn Inc
+CZNC,Citizens & Northern Corp
+DAAQW,Digital Asset Acquisition Corp. - Warrant
+DBCA,D. Boral Acquisition I Corp. - Class A
+DBX,"Dropbox, Inc. - Class A"
+DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares"
+DFNSW,T3 Defense Inc. - Warrants
+DGICB,"Donegal Group, Inc. - Class B"
+DHCNI,Diversified Healthcare Trust  - 5.625% Senior Notes due 2042
+DJT,Trump Media & Technology Group Corp
+DLO,DLocal Limited - Class A Common Shares
+DMAAU,Drugs Made In America Acquisition Corp. - Units
+DMLP,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests"
+DNMXU,Dynamix Corporation III - Unit
+DOGZ,Dogness (International) Corporation - Class A
+DOYU,DouYu International Holdings Limited
+DRDBW,Roman DBDR Acquisition Corp. II - Warrants
+DRS,"Leonardo DRS, Inc"
+DSAC,Daedalus Special Acquisition Corp. - Class A
+DSGR,"Distribution Solutions Group, Inc"
+DSYWW,Big Tree Cloud Holdings Limited - Warrants
+DTSQR,DT Cloud Star Acquisition Corporation - Right
+DUOL,"Duolingo, Inc. - Class A"
+DXR,Daxor Corporation - Closed End Fund
+DYNCW,Dynamix Corporation - Warrant
+EBMT,"Eagle Bancorp Montana, Inc"
+ECX,ECARX Holdings Inc. - Class A
+EDIT,"Editas Medicine, Inc"
+EEFT,"Euronet Worldwide, Inc"
+EFSI,Eagle Financial Services Inc
+EGHAR,EGH Acquisition Corp. - rights
+EHLD,Euroholdings Ltd
+ELDN,"Eledon Pharmaceuticals, Inc"
+ELTK,Eltek Ltd
+ELWT,"Elauwit Connection, Inc"
+EML,Eastern Company (The)
+ENLT,Enlight Renewable Energy Ltd
+ENSG,"The Ensign Group, Inc"
+ENVX,Enovix Corporation
+EPRX,Eupraxia Pharmaceuticals Inc
+ERAS,"Erasca, Inc"
+ESCA,"Escalade, Incorporated"
+ESTA,Establishment Labs Holdings Inc. - Common Shares
+ETS,Elite Express Holding Inc. - Class A
+EVCM,EverCommerce Inc
+EVOX,Evolution Global Acquisition Corp - Class A
+EWAVU,East West Ave Acquisition Corp. - Units
+EXLS,"ExlService Holdings, Inc"
+EXYNW,"Exyn Technologies, Inc. - Warrant"
+EZRA,"Reliance Global Group, Inc"
+FACTU,FACT II Acquisition Corp. - Unit
+FBDT,First Breach Inc
+FBLG,"FibroBiologics, Inc"
+FCAP,"First Capital, Inc"
+FCNCA,"First Citizens BancShares, Inc. - Class A"
+FDBC,"Fidelity D & D Bancorp, Inc"
+FDSB,"Fifth District Bancorp, Inc"
+FEMY,Femasys Inc
+FFBC,First Financial Bancorp
+FGC,FG Communities Holdings Inc
+FGIIW,FG Imperii Acquisition Corp. - Warrants
+FIEE,"FiEE, Inc"
+FINW,FinWise Bancorp
+FIVN,"Five9, Inc"
+FJDIW,ARC Group Securities Acquisition I - Warrants
+FLNC,"Fluence Energy, Inc. - Class A"
+FLY,Firefly Aerospace Inc
+FMNB,Farmers National Banc Corp
+FNRN,First Northern Community Bancorp
+FORM,"FormFactor, Inc"
+FRAF,Franklin Financial Services Corporation
+FRHC,Freedom Holding Corp
+FRNM,"Freenome, Inc"
+FRST,Primis Financial Corp
+FSBW,"FS Bancorp, Inc"
+FSTR,L.B. Foster Company
+FTCI,"FTC Solar, Inc"
+FTHA,Forefront Tech Holdings Acquisition Corp - Class A
+FUFU,BitFuFu Inc. - Class A
+FUNC,First United Corporation
+FVAV,Fortress Value Acquisition Corp. V - Class A
+FWACR,Futurewave Acquisition Corporation - Rights
+FWONK,Liberty Media Corporation - Series C
+FXACW,FortuneX Acquisition Corporation - Warrant
+GAIN,Gladstone Investment Corporation - Business Development Company
+GAME,"GameSquare Holdings, Inc"
+GBLI,"Global Indemnity Group, LLC - Class A Common Shares"
+GCLWW,GCL Global Holdings Ltd - Warrants
+GDHG,Golden Heaven Group Holdings Ltd.  - Class A
+GECC,Great Elm Capital Corp. - Closed End Fund
+GEGGL,"Great Elm Group, Inc.  - 7.25% Notes due 2027"
+GEOS,Geospace Technologies Corporation
+GFUZW,General Fusion Group Ltd. - Warrant
+GHRS,GH Research PLC
+GIBOW,GIBO Holdings Limited - Warrants
+GIW,GigCapital8 Corp. - Class A
+GIXXR,GigCapital9 Corp. - Rights
+GLIBA,Liberty Capital Corporation - Series A GCI Group
+GLOO,"Gloo Holdings, Inc"
+GLXG,Galaxy Payroll Group Limited - Class A
+GNLN,"Greenlane Holdings, Inc. - Class A"
+GNTX,Gentex Corporation
+GOODN,Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable Preferred Stock
+GOW,GOWell Energy Technology
+GPAT,GP-Act III Acquisition Corp. - Class A Ordinary Share
+GPRO,"GoPro, Inc. - Class A"
+GRCE,"Grace Therapeutics, Inc"
+GRMLW,Greenland Mines Ltd - Warrants
+GRRRW,Gorilla Technology Group Inc. - Warrant
+GSBC,"Great Southern Bancorp, Inc"
+GSIT,"GSI Technology, Inc"
+GSRFU,GSR IV Acquisition Corp. - Units
+GTBP,"GT Biopharma, Inc"
+GTERA,Globa Terra Acquisition Corporation - Class A
+GTLB,GitLab Inc. - Class A
+GUACW,Berto Acquisition Corp. II - Warrants
+GXAI,Gaxos.ai Inc
+HACQU,HCM IV Acquisition Corp. - Unit
+HAPN,"Happen, Inc"
+HBANM,Huntington Bancshares Incorporated - Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock
+HBNB,Hotel101 Global Holdings Corp. - Class A
+HCACU,Hall Chadwick Acquisition Corp. - Unit
+HCICR,Hennessy Capital Investment Corp. VIII - Share Rights
+HCMAU,HCM III Acquisition Corp. - Units
+HDL,SUPER HI INTERNATIONAL HOLDING LTD
+HELP,Helus Pharma Inc
+HFFG,HF Foods Group Inc
+HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares"
+HKIT,Hitek Global Inc. - Class A Ordinary Share
+HMH,HMH Holding Inc
+HNVR,"Hanover Bancorp, Inc"
+HOUR,"Hour Loop, Inc"
+HPK,"HighPeak Energy, Inc"
+HRMY,"Harmony Biosciences Holdings, Inc"
+HSTM,"HealthStream, Inc"
+HTLD,"Heartland Express, Inc"
+HTZWW,"Hertz Global Holdings, Inc - Warrant"
+HURC,"Hurco Companies, Inc"
+HVMCW,Highview Merger Corp. - Warrants
+HYFT,MindWalk Holdings Corp
+IACO,Idea Acquisition Corp. - Class A
+IACQW,Irenic Acquisition Corp. - Warrants
+IBEX,IBEX Limited - Common Share
+ICCM,IceCure Medical Ltd
+ICON,Icon Energy Corp
+IDACU,Iron Dome Acquisition I Corp. - Units
+IDYA,"IDEAYA Biosciences, Inc"
+IESC,"IES Holdings, Inc"
+IGACU,Invest Green Acquisition Corporation - Units
+IKT,"Inhibikase Therapeutics, Inc"
+ILPT,Industrial Logistics Properties Trust - Common Shares of Beneficial Interest
+IMKTA,"Ingles Markets, Incorporated - Class A"
+IMOS,ChipMOS TECHNOLOGIES INC
+IMSR,Terrestrial Energy Inc
+IMXI,"International Money Express, Inc"
+INBK,First Internet Bancorp
+INDB,Independent Bank Corp
+INHD,Inno Holdings Inc
+INMD,InMode Ltd
+INSG,Inseego Corp
+INTR,Inter & Co. Inc. - Class A Common Shares
+IOND,Ionic Digital Inc. - Class A
+IOVA,"Iovance Biotherapeutics, Inc"
+IPFXW,Inflection Point Acquisition Corp. VI - Warrant
+IPSC,"Century Therapeutics, Inc"
+IPWR,Ideal Power Inc
+IQ,"iQIYI, Inc"
+IRDM,Iridium Communications Inc
+IRMD,iRadimed Corporation
+ISNR,Snow Rothschild Acquisition Corp. - Class A
+ITG,"ITG, Inc. - Class A"
+ITRI,"Itron, Inc"
+IXHL,Incannex Healthcare Inc
+JANX,"Janux Therapeutics, Inc"
+JBLU,JetBlue Airways Corporation
+JD,"JD.com, Inc"
+JFU,9F Inc
+JMSB,"John Marshall Bancorp, Inc"
+JOYY,JOYY Inc
+JTTT,JATT III Acquisition Corp
+JYNT,The Joint Corp
+KARO,Karooooo Ltd
+KBSX,FST Corp
+KDK,"Kodiak AI, Inc"
+KELYB,"Kelly Services, Inc. - Class B"
+KFFB,Kentucky First Federal Bancorp
+KGEI,Kolibri Global Energy Inc
+KLIC,"Kulicke and Soffa Industries, Inc"
+KMDA,Kamada Ltd
+KOPN,Kopin Corporation
+KPLT,"Katapult Holdings, Inc"
+KRAQW,KRAKacquisition Corp - Warrants
+KROS,"Keros Therapeutics, Inc"
+KRYS,"Krystal Biotech, Inc"
+KTWO,K2 Capital Acquisition Corporation - Class A Ordinary Share
+KVHI,"KVH Industries, Inc"
+KYTX,"Kyverna Therapeutics, Inc"
+LAFAR,LaFayette Acquisition Corp. - Rights
+LANDO,Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock
+LATA,Galata Acquisition Corp. II - Class A
+LBGJ,Li Bang International Corporation Inc. - Class A
+LCCC,Lakeshore Acquisition III Corp
+LCID,"Lucid Group, Inc"
+LEDRU,Leader's Advantage Acquisition Corp. - Units
+LENZ,"LENZ Therapeutics, Inc"
+LFCR,"Lifecore Biomedical, Inc"
+LFTO,"Liftoff Mobile, Inc"
+LGHL,Lion Group Holding Ltd. - American Depositary Share
+LHAI,Linkhome Holdings Inc
+LIEN,"Chicago Atlantic BDC, Inc"
+LILAP,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares
+LIND,Lindblad Expeditions Holdings Inc
+LIVN,LivaNova PLC
+LKSPR,Lake Superior Acquisition Corp. - Rights
+LMB,"Limbach Holdings, Inc"
+LNSR,"LENSAR, Inc"
+LOCO,"El Pollo Loco Holdings, Inc"
+LOTWW,Lotus Technology Inc. - Warrants
+LPAAW,Launch One Acquisition Corp. - Warrant
+LPCV,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share
+LQDA,Liquidia Corporation
+LSBK,"Lake Shore Bancorp, Inc"
+LTBR,Lightbridge Corporation
+LTRX,"Lantronix, Inc"
+LUNR,"Intuitive Machines, Inc. - Class A"
+LWACW,LightWave Acquisition Corp. - Warrants
+LXEO,"Lexeo Therapeutics, Inc"
+LZ,"LegalZoom.com, Inc"
+MACIW,Melar Acquisition Corp. I - Warrant
+MARA,"MARA Holdings, Inc"
+MATH,Metalpha Technology Holding Limited
+MBAI,MBody AI Ltd. - Ordinary Share
+MBINN,Merchants Bancorp - Depositary Shares 6.00% Fixed Rate Series C Non-Cumulative Perpetual Preferred Stock
+MBVI,M3-Brigade Acquisition VI Corp. - Class A
+MCAH,Mountain Crest Acquisition 6 Corp
+MCGA,Yorkville Acquisition Corp. - Class A Ordinary Share
+MCHX,"Marchex, Inc. - Class B"
+MDAIW,"Spectral AI, Inc. - Warrants"
+MDLN,Medline Inc. - Class A
+MEGL,Magic Empire Global Limited - Class A
+MESHW,Meshflow Acquisition Corp. - Warrants
+METCZ,"Ramaco Resources, Inc. - 8.375% Senior Notes due 2029"
+MFI,mF International Limited - Class A
+MGEE,MGE Energy Inc
+MGPI,"MGP Ingredients, Inc"
+MGYR,"Magyar Bancorp, Inc"
+MIMI,Mint Incorporation Limited - Class A
+MKDW,MKDWELL Tech Inc
+MKSI,MKS Inc
+MLAAU,Mountain Lake Acquisition Corp. II - Units
+MLCO,Melco Resorts & Entertainment Limited
+MLTX,MoonLake Immunotherapeutics - Class A
+MMSI,"Merit Medical Systems, Inc"
+MNDR,Mobile-health Network Solutions - Class A
+MNRO,"Monro, Inc"
+MNYWW,MoneyHero Limited - Warrants
+MOBXW,"Mobix Labs, Inc. - Warrants"
+MOVE,"Corvex, Inc"
+MRAM,"Everspin Technologies, Inc"
+MRCY,Mercury Systems Inc
+MRTN,"Marten Transport, Ltd"
+MSBI,"Midland States Bancorp, Inc"
+MSLE,Satellos Bioscience Inc
+MTCH,"Match Group, Inc"
+MTRX,Matrix Service Company
+MUZEW,Muzero Acquisition Corp - Warrant
+MWYN,"Marwynn Holdings, Inc"
+MYRG,"MYR Group, Inc"
+MYXXW,Maywood Acquisition Corp. 2 - Warrants
+NAKA,Nakamoto Inc
+NAMSW,NewAmsterdam Pharma Company N.V. - Warrant
+NAVN,"Navan, Inc. - Class A"
+NBP,NovaBridge Biosciences
+NBTX,Nanobiotix S.A. - ADSs
+NCNA,NuCana plc
+NCOOW,Southern Cross Acquisition I Corp. - Warrants
+NDRA,ENDRA Life Sciences Inc
+NEOV,NeoVolta Inc
+NEUP,Neuphoria Therapeutics Inc
+NEWTO,"NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031"
+NEXRW,Nexera Technologies Ltd - Warrant
+NGNE,Neurogene Inc
+NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock"
+NIOBW,NioCorp Developments Ltd. - Warrant
+NKLR,Terra Innovatum Global N.V
+NMFC,New Mountain Finance Corporation
+NMPAU,NMP Acquisition Corp. - Units
+NNBR,"NN, Inc"
+NODK,"NI Holdings, Inc"
+NOMA,NOMADAR Corp. - Class A
+NPACW,New Providence Acquisition Corp. III - Warrants
+NRIM,Northrim BanCorp Inc
+NSAIU,NorthStrive Acquisition Corp I. - Units
+NSSC,"NAPCO Security Technologies, Inc"
+NTGR,"NETGEAR, Inc"
+NTRA,"Natera, Inc"
+NTWK,NETSOL Technologies Inc
+NUAIW,"New Era Energy & Digital, Inc. - Warrants"
+NUWE,"Nuwellis, Inc"
+NVMI,Nova Ltd
+NWCL,newcleo plc
+NWL,Newell Brands Inc
+NXH,"Neighborhood Intelligence, Inc"
+NXTT,Next Technology Holding Inc
+OACC,Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share
+OBAWW,Oxley Bridge Acquisition Limited - Warrants
+OCCI,"OFS Credit Company, Inc. - Closed End Fund"
+OCGN,"Ocugen, Inc"
+OCS,Oculis Holding AG
+ODD,ODDITY Tech Ltd. - Class A
+OFLX,"Omega Flex, Inc"
+OGI,Organigram Global Inc. - Common Shares
+OIM,OneIM Acquisition Corp. - Class A
+OKTA,"Okta, Inc. - Class A"
+OLMA,"Olema Pharmaceuticals, Inc"
+OMDA,"Omada Health, Inc"
+ONBPO,"Old National Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Preferred Stock"
+ONCHW,1RT Acquisition Corp. - Warrant
+ONEW,OneWater Marine Inc. - Class A
+OPCH,"Option Care Health, Inc"
+OPI,Office Properties Income Trust - Common shares of beneficial interest
+OPRX,OptimizeRx Corporation
+ORGO,Organogenesis Holdings Inc.  - Class A
+ORIQW,Origin Investment Corp I - Redeemable Warrant
+OSBC,"Old Second Bancorp, Inc"
+OSPRW,Osprey Acquisition Corp. III - Warrants
+OTEX,Open Text Corporation - Common Shares
+OTTR,Otter Tail Corporation
+OWLS,OBOOK Holdings Inc. - Class A Common Shares
+OXLCI,Oxford Lane Capital Corp. - 8.75% Notes due 2030
+OXLCZ,Oxford Lane Capital Corp. - 5.00% Notes due 2027
+OYSER,Oyster Enterprises II Acquisition Corp - Rights
+PAAC,Proem Acquisition Corp I
+PACHU,Pioneer Acquisition I Corp - Units
+PALI,"Palisade Bio, Inc"
+PANL,Pangaea Logistics Solutions Ltd
+PATK,"Patrick Industries, Inc"
+PAYP,PayPay Corporation - American Depository Shares
+PBLS,"Parabilis Medicines, Inc"
+PCAPU,ProCap Acquisition Corp - Unit
+PCSA,"Processa Pharmaceuticals, Inc"
+PCVX,"Vaxcyte, Inc"
+PDLB,"Ponce Financial Group, Inc"
+PECER,Peace Acquisition Corp - Right
+PENG,"Penguin Solutions, Inc"
+PETS,"PetMed Express, Inc"
+PFSA,"Profusa, Inc"
+PGNY,"Progyny, Inc"
+PHIO,Phio Pharmaceuticals Corp
+PI,"Impinj, Inc"
+PKOH,Park-Ohio Holdings Corp
+PLBY,"Playboy, Inc"
+PLMK,Plum Acquisition Corp. IV - Class A
+PLRX,"Pliant Therapeutics, Inc"
+PLUG,"Plug Power, Inc"
+PMAX,Powell Max Limited - Class A
+PMTS,CPI Card Group Inc
+PNTG,"The Pennant Group, Inc"
+POLEU,Andretti Acquisition Corp. II - Unit
+PONOU,"Pono Capital Four, Inc. - Units"
+POWW,Outdoor Holding Company
+PPHC,"Public Policy Holding Company, Inc"
+PRAA,"PRA Group, Inc"
+PRE,Prenetics Global Limited - Class A Ordinary Share
+PRHIZ,"Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028"
+PROV,"Provident Financial Holdings, Inc"
+PRTH,"Priority Technology Holdings, Inc"
+PSIG,PS International Group Ltd
+PSNYW,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW)
+PTACW,Patriot Acquisition Corp. - Warrants
+PTLO,Portillo's Inc. - Class A
+PTORW,Praetorian Acquisition Corp. - Warrant
+PUSA,Powerus Corporation
+PXLW,"Pixelworks, Inc"
+QADR,QDRO Acquisition Corp. - Class A
+QCRH,"QCR Holdings, Inc"
+QH,Quhuo Limited - Class A
+QNRX,"Quoin Pharmaceuticals, Ltd"
+QRHC,Quest Resource Holding Corporation
+QSEAU,Quartzsea Acquisition Corporation - Units
+QUBT,Quantum Computing Inc
+QUMSU,Quantumsphere Acquisition Corp. - Units
+RACD,Research Alliance Corporation IV - Class A
+RANGU,Range Capital Acquisition Corp. - Units
+RBB,RBB Bancorp
+RCAT,"Red Cat Holdings, Inc"
+RCMT,"RCM Technologies, Inc"
+RDCM,Radcom Ltd
+RDNW,"RideNow Group, Inc. - Class B"
+REAL,"The RealReal, Inc"
+REGCP,Regency Centers Corporation - 6.25% Series A Cumulative Redeemable Preferred Stock
+REPL,"Replimune Group, Inc"
+RFAI,RF Acquisition Corp II
+RFAMU,RF Acquisition Corp III - Units
+RGLD,"Royal Gold, Inc"
+RGTIW,"Rigetti Computing, Inc.  - Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
+RIGL,"Rigel Pharmaceuticals, Inc"
+RILYT,"BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028"
+RLAY,"Relay Therapeutics, Inc"
+RMCF,"Rocky Mountain Chocolate Factory, Inc"
+RMNI,"Rimini Street, Inc"
+RNAQ,Rainier Acquisition Corporation - Class A
+RNGTU,Range Capital Acquisition Corp II - Units
+ROCK,"Gibraltar Industries, Inc"
+RPAY,Repay Holdings Corporation - Class A
+RR,Richtech Robotics Inc. - Class B
+RRGB,"Red Robin Gourmet Burgers, Inc"
+RUBI,Rubico Inc
+RUSHB,"Rush Enterprises, Inc. - Class B"
+RVSNW,Rail Vision Ltd. - Warrant
+RXST,"RxSight, Inc"
+RYOJ,"rYojbaba Co., Ltd. - Common Shares"
+RZLVW,Rezolve AI PLC - Warrants
+SABS,"SAB Biotherapeutics, Inc"
+SAIH,SAIHEAT Limited - Class A
+SANA,"Sana Biotechnology, Inc"
+SATLW,Satellogic Inc. - Warrant
+SBFMW,Sunshine Biopharma Inc. - Warrant
+SCATU,Southern Cross Acquisition II Corp. - Units
+SCLX,Scilex Holding Company
+SCPQU,Social Commerce Partners Corporation - Unit
+SCYX,"SCYNEXIS, Inc"
+SDHIR,Siddhi Acquisition Corp - Right
+SEDG,"SolarEdge Technologies, Inc"
+SENEA,Seneca Foods Corp. - Class A
+SERV,Serve Robotics Inc
+SFD,"Smithfield Foods, Inc"
+SFST,"Southern First Bancshares, Inc"
+SGLD,Scorpio Gold Corporation
+SGRX,SANGRIX INC. - Class A
+SHEN,Shenandoah Telecommunications Co
+SHMD,SCHMID Group N.V. - Class A
+SHOTR,RMG ML Sports Holdings - Rights
+SIEB,Siebert Financial Corp
+SILC,Silicom Ltd
+SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four"
+SJ,Scienjoy Holding Corporation - Class A
+SKYAW,"SkyAI, Inc. - Warrant"
+SLBT,SL Science Holding Limited
+SLE,"Super League Enterprise, Inc"
+SLN,Silence Therapeutics Plc - American Depository Share
+SLRC,SLR Investment Corp. - Closed End Fund
+SMID,Smith-Midland Corporation
+SMTI,Sanara MedTech Inc
+SNDL,SNDL Inc. - Common Shares
+SNOA,"Sonoma Pharmaceuticals, Inc"
+SOCAU,Solarius Capital Acquisition Corp. - Units
+SOLS,Solstice Advanced Materials Inc
+SORNU,Soren Acquisition Corp. - Unit
+SOWG,Sow Good Inc
+SPEGU,Silver Pegasus Acquisition Corp - Unit
+SPOK,"Spok Holdings, Inc"
+SPRY,"ARS Pharmaceuticals, Inc"
+SPWRW,SunPower Inc. - Warrant
+SRBK,"SR Bancorp, Inc"
+SRTS,"Sensus Healthcare, Inc"
+SSACW,SPACSphere Acquisition Corp. - Warrant
+SSII,SS Innovations International Inc
+SSTI,"SoundThinking, Inc"
+STEP,StepStone Group Inc. - Class A
+STI,"Solidion Technology, Inc"
+STLN,"Starling Oncology, Inc"
+STRC,Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock
+STRO,"Sutro Biopharma, Inc"
+STTK,"Shattuck Labs, Inc"
+SUMAR,SUMA Acquisition Corporation - Rights
+SUPX,SuperX AI Technology Limited
+SVC,Service Properties Trust - Common Shares of Beneficial Interest
+SVIA,"Silvia, Inc"
+SVRA,"Savara, Inc"
+SWBI,"Smith & Wesson Brands, Inc"
+SWVL,Swvl Holdings Corp
+SY,So-Young International Inc. - American Depository Shares
+SYRE,"Spyre Therapeutics, Inc"
+TACHU,Titan Acquisition Corp. - Units
+TACT,TransAct Technologies Incorporated
+TARS,"Tarsus Pharmaceuticals, Inc"
+TAVIU,Tavia Acquisition Corp. - Unit
+TBLA,Taboola.com Ltd
+TCBK,TriCo Bancshares
+TCPC,BlackRock TCP Capital Corp. - Closed End Fund
+TDIC,Dreamland Limited - Class A
+TDWDU,Tailwind 2.0 Acquisition Corp. - Unit
+TENB,"Tenable Holdings, Inc"
+TH,Target Hospitality Corp
+THFF,First Financial Corporation
+TIGR,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A
+TJGC,TJGC Group Limited - Class A
+TLACW,Three Lions Acquisition Corp. - Warrants
+TLNCU,Talon Capital Corp. - Units
+TLSA,Tiziana Life Sciences Ltd - Common Shares
+TMCI,"Treace Medical Concepts, Inc"
+TMTS,Spartacus Acquisition Corp. II - Class A
+TMUSZ,"T-Mobile US, Inc. - 5.500% Senior Notes due March 2070"
+TNXP,Tonix Pharmaceuticals Holding Corp
+TOWN,Towne Bank
+TRAX,"First Tracks Biotherapeutics, Inc"
+TRGS,TRG Latin America Acquisitions Corp. - Class A
+TRMK,Trustmark Corporation
+TRS,TriMas Corporation
+TRVG,trivago N.V
+TSHA,"Taysha Gene Therapies, Inc"
+TTEK,"Tetra Tech, Inc"
+TURB,"Turbo Energy, S.A"
+TVAI,Thayer Ventures Acquisition Corporation II - Class A
+TVIV,Texas Ventures Acquisition IV Corp - Class A
+TW,Tradeweb Markets Inc. - Class A
+TWLV,Twelve Seas Investment Company III - Class A
+TXMD,"TherapeuticsMD, Inc"
+UBCP,"United Bancorp, Inc"
+UFCS,"United Fire Group, Inc"
+ULBI,Ultralife Corporation
+UNB,"Union Bankshares, Inc"
+UONEK,"Urban One, Inc.  - Class D"
+UPWK,Upwork Inc
+USAU,U.S. Gold Corp
+USIO,"Usio, Inc"
+UVSP,Univest Financial Corporation
+VABK,Virginia National Bankshares Corporation
+VBNK,VersaBank - Common Shares
+VCTR,"Victory Capital Holdings, Inc"
+VEON,VEON Ltd
+VFF,"Village Farms International, Inc. - Common Shares"
+VHC,VirnetX Holding Corp
+VICR,Vicor Corporation
+VISN,"Vistance Networks, Inc"
+VLGEA,"Village Super Market, Inc. - Class A"
+VLYPN,"Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C"
+VMET,Versamet Royalties Corporation
+VNMEU,Vendome Acquisition Corporation I - Unit
+VOR,Vor Biopharma Inc
+VRDN,"Viridian Therapeutics, Inc"
+VRXA,Veraxa Biotech AG
+VSEC,VSE Corporation
+VTIX,Virtuix Holdings Inc. - Class A
+VWAVW,"VisionWave Holdings, Inc. - Warrant"
+WAFU,Wah Fu Education Group Limited
+WATT,Energous Corporation
+WCCB,West Coast Community Bancorp
+WENNU,Wen Acquisition Corp - Unit
+WETO,Wetour Robotics Limited
+WGS,GeneDx Holdings Corp. - Class A
+WHLRL,"Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031"
+WING,Wingstop Inc
+WLCOU,Wilco 63 Corporation - Units
+WLFC,Willis Lease Finance Corporation
+WMG,Warner Music Group Corp. - Class A
+WPRT,Westport Fuel Systems Inc - Common Shares
+WSBCO,"WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B"
+WSFS,WSFS Financial Corporation
+WTBA,West Bancorporation
+WTGUR,Wintergreen Acquisition Corp. - Rights
+WVVIP,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock"
+WYHG,Wing Yip Food Holdings Group Limited
+XBPEW,"XBP Global Holdings, Inc. - Warrant"
+XE,"X-Energy, Inc. - Class A"
+XFOR,"X4 Pharmaceuticals, Inc"
+XIIIU,Churchill Capital Corp XIII - Units
+XMTR,"Xometry, Inc. - Class A"
+XP,XP Inc. - Class A
+XRPNU,Armada Acquisition Corp. II - Units
+OSK,Oshkosh Corporation (Holding Company)Common Stock
+CNR,"Core Natural Resources, Inc"
+AA,Alcoa Corporation
+AADX,"Applied Aerospace & Defense, Inc"
+AAP,Advance Auto Parts Inc
+AAUC,Allied Gold Corporation Common Shares
+ABCB,Ameris Bancorp
+ABG,Asbury Automotive Group Inc
+ABR,Arbor Realty Trust
+ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028"
+ACCO,Acco Brands Corporation
+ACH,"Accendra Health, Inc"
+ACI,"Albertsons Companies, Inc. Class A"
+ACM,AECOM
+ACR,ACRES Commercial Realty Corp
+ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest
+AD,"Array Digital Infrastructure, Inc. Common Shares"
+ADCT,ADC Therapeutics SA Common Shares
+ADNT,Adient plc
+ADX,Adams Diversified Equity Fund Inc
+AEG,Aegon Ltd. New York Registry Shares
+AEO,"American Eagle Outfitters, Inc"
+AERO,"Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)"
+AEXA,American Exceptionalism Acquisition Corp. A Class A
+AFG,"American Financial Group, Inc"
+AFGC,"American Financial Group, Inc. 5.125% Subordinated Debentures due 2059"
+AFGE,"American Financial Group, Inc. 4.500% Subordinated Debentures due 2060"
+AGBK,AGI Inc Class A Common Shares
+AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest
+AGL,"agilon health, inc"
+AGO,Assured Guaranty Ltd
+AGX,"Argan, Inc"
+AHRT,"AH Realty Trust, Inc"
+AI,"C3.ai, Inc. Class A"
+AIIA,AI Infrastructure Acquisition Corp. Class A
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest
+AIT,"Applied Industrial Technologies, Inc"
+AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061"
+AKAF,The Frontier Economic Fund
+ALC,Alcon Inc
+ALH,Alliance Laundry Holdings Inc
+ALK,"Alaska Air Group, Inc"
+ALSN,"Allison Transmission Holdings, Inc"
+ALUB,Alussa Energy Acquisition Corp. II Class A
+ALX,"Alexander's, Inc"
+AMBP,Ardagh Metal Packaging S.A
+AMC,"AMC Entertainment Holdings, Inc. Class A"
+AMH,American Homes 4 Rent Common Shares of Beneficial Interest
+AMPX,"Amprius Technologies, Inc"
+AMR,"Alpha Metallurgical Resources, Inc"
+AMRZ,Amrize Ltd
+AMTD,"AMTD IDEA Group American Depositary Shares, each representing six (6) Class A"
+AMWL,American Well Corporation Class A
+AN,"AutoNation, Inc"
+ANF,Abercrombie & Fitch Company
+ANRO,"Alto Neuroscience, Inc"
+AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest
+AOMN,"Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029"
+AORT,"Artivion, Inc"
+APAM,Artisan Partners Asset Management Inc. Class A
+APLE,"Apple Hospitality REIT, Inc. Common Shares"
+AQN,Algonquin Power & Utilities Corp. Common Shares
+AR,Antero Resources Corporation
+ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares"
+ARI,"Apollo Commercial Real Estate Finance, Inc"
+ARL,"American Realty Investors, Inc"
+ARMK,Aramark
+ARR,"ARMOUR Residential REIT, Inc"
+ARX,Accelerant Holdings Class A Common Shares
+ASA,ASA  Gold and Precious Metals Limited
+ASB,Associated Banc-Corp
+ASBH,"American Savings Bank, N.A"
+ASG,"Liberty All-Star Growth Fund, Inc"
+ASH,Ashland Inc
+ASIX,AdvanSix Inc
+ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V"
+ATEN,"A10 Networks, Inc"
+ATHS,Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064
+ATKR,Atkore Inc
+ATR,"AptarGroup, Inc"
+AU,AngloGold Ashanti PLC
+AUNA,Auna SA Class A
+AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
+AVD,American Vanguard Corporation Common Stock ($0.10 Par Value)
+AVK,Advent Convertible and Income Fund
+AVTR,"Avantor, Inc"
+AWI,Armstrong World Industries Inc
+AWR,American States Water Company
+AXR,AMREP Corporation
+AXTA,Axalta Coating Systems Ltd. Common Shares
+AZN,AstraZeneca PLC
+AZZ,AZZ Inc
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
+BAK,Braskem SA
+BAM,Brookfield Asset Management Inc Class A Limited Voting Shares
+BAP,Credicorp Ltd
+BB,BlackBerry Limited
+BBAR,Banco BBVA Argentina S.A. ADS
+BBDC,"Barings BDC, Inc"
+BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest
+BBUC,Brookfield Business Corporation Class A Subordinate Voting Shares
+BBW,"Build-A-Bear Workshop, Inc"
+BC,Brunswick Corporation
+BCC,"Boise Cascade, L.L.C"
+BCEM,Baron Emerging Markets Select ETF
+BCH,Banco De Chile ADS
+BCS,Barclays PLC
+BCSM,Baron SMID Cap ETF
+BCX,BlackRock Resources Common Shares of Beneficial Interest
+BDJ,Blackrock Enhanced Equity Dividend Trust
+BEBE,TGE Value Creative Solutions Corp Class A
+BEP,Brookfield Renewable Partners L.P. Limited Partnership Units
+BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes
+BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes
+BFAM,Bright Horizons Family Solutions Inc
+BFLY,"Butterfly Network, Inc. Class A"
+BGB,Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest
+BGR,BlackRock Energy and Resources Trust
+BGSF,"BGSF, Inc"
+BGT,BlackRock Floating Rate Income Trust
+BGY,Blackrock Enhanced International Dividend Trust
+BHC,Bausch Health Companies Inc
+BHK,Blackrock Core Bond Trust
+BHR,Braemar Hotels & Resorts Inc
+BHVN,Biohaven Ltd. Common Shares
+BILL,"BILL Holdings, Inc"
+BIP,Brookfield Infrastructure Partners LP Limited Partnership Units
+BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081
+BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084
+BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest
+BKD,Brookdale Senior Living Inc
+BKH,Black Hills Corporation
+BKSY,BlackSky Technology Inc. Class A
+BKU,"BankUnited, Inc"
+BLCO,Bausch + Lomb Corporation Common Shares
+BLND,"Blend Labs, Inc. Class A"
+BLW,Blackrock Limited Duration Income Trust
+BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
+BMEZ,BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest
+BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest
+BMNR,"BitMine Immersion Technologies, Inc"
+BN,Brookfield Corporation Class A Limited Voting Shares
+BNH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080"
+BNL,"Broadstone Net Lease, Inc"
+BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares
+BOC,Boston Omaha Corporation Class A
+BOH,Bank of Hawaii Corporation
+BOOT,"Boot Barn Holdings, Inc"
+BOW,Bowhead Specialty Holdings Inc
+BP,BP p.l.c
+BRBR,"BellRing Brands, Inc"
+BRCC,BRC Inc. Class A
+BREE,MFS Blended Research Emerging Markets Equity ETF
+BROL,Baron Risk Optimized Large Cap ETF
+BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025"
+BRT,BRT Apartments Corp. (MD)
+BRX,Brixmor Property Group Inc
+BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit"
+BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests"
+BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest
+BTGO,"BitGo Holdings, Inc. Class A"
+BTO,John Hancock Financial Opportunities Fund
+BTU,Peabody Energy Corporation
+BTZ,BlackRock Credit Allocation Income Trust
+BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust"
+BURL,"Burlington Stores, Inc"
+BV,"BrightView Holdings, Inc"
+BW,"Babcock & Wilcox Enterprises, Inc"
+BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc
+BWLP,BW LPG Limited Common Shares
+BWXT,"BWX Technologies, Inc"
+BXDC,Blackstone Digital Infrastructure Trust Inc
+BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest
+BYD,Boyd Gaming Corporation
+CAAP,Corporacion America Airports SA Common Shares
+CACI,"CACI International, Inc. Class A"
+CAG,"ConAgra Brands, Inc"
+CALX,"Calix, Inc"
+CANG,Cango Inc. Class A
+CARS,Cars.com Inc
+CAVA,"CAVA Group, Inc"
+CBL,"CBL & Associates Properties, Inc"
+CBT,Cabot Corporation
+CBZ,"CBIZ, Inc"
+CCID,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028
+CCJ,Cameco Corporation
+CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)
+CCS,"Century Communities, Inc"
+CCZ,Comcast Holdings ZONES
+CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)
+CDRE,"Cadre Holdings, Inc"
+CEE,"The Central and Eastern Europe Fund, Inc. (The)"
+CFND,C1 Fund Inc
+CGAU,Centerra Gold Inc. Common Shares
+CHCT,Community Healthcare Trust Incorporated
+CHGG,"Chegg, Inc"
+CHMI,Cherry Hill Mortgage Investment Corporation
+CHT,"Chunghwa Telecom Co., Ltd"
+CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)"
+CICB,CION Investment Corporation 7.50% Notes due 2029
+CIG,Comp En De Mn Cemig ADS
+CIM,Chimera Investment Corporation
+CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029
+CINT,CI&T Inc Class A Common Shares
+CLB,Core Laboratories Inc
+CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
+CLH,"Clean Harbors, Inc"
+CLS,"Celestica, Inc"
+CLW,Clearwater Paper Corporation
+CMBT,CMB.TECH NV
+CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A"
+CMP,Compass Minerals Intl Inc
+CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078
+CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079
+CNA,CNA Financial Corporation
+CNH,CNH Industrial N.V. Common Shares
+CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc"
+CNMD,CONMED Corporation
+CNO,"CNO Financial Group, Inc"
+CNX,CNX Resources Corporation
+COLD,"Americold Realty Trust, Inc"
+CON,"Concentra Group Holdings Parent, Inc"
+COPL,Copley Acquisition Corp
+COTY,Coty Inc. Class A
+CP,Canadian Pacific Kansas City Limited Common Shares
+CPAC,Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares)
+CPF,Central Pacific Financial Corp New
+CPNG,"Coupang, Inc. Class A"
+CPS,Cooper-Standard Holdings Inc
+CR,Crane Company
+CRBG,Corebridge Financial Inc
+CRCL,"Circle Internet Group, Inc. Class A"
+CRI,"Carter's, Inc"
+CRS,Carpenter Technology Corporation
+CSL,Carlisle Companies Incorporated
+CSR,D/B/A Centerspace
+CSV,"Carriage Services, Inc"
+CTEV,Claritev Corporation Class A
+CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)
+CTOS,"Custom Truck One Source, Inc"
+CTRI,"Centuri Holdings, Inc"
+CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034"
+CUBI,"Customers Bancorp, Inc"
+CURV,Torrid Holdings Inc
+CVE,Cenovus Energy Inc
+CVI,CVR Energy Inc
+CVSA,Covista Inc. Common Shares
+CWEN,"Clearway Energy, Inc. Class C"
+CWK,Cushman & Wakefield Ltd. Common Shares
+CX,"Cemex, S.A.B. de C.V. Sponsored"
+CXT,"Crane NXT, Co"
+CYD,China Yuchai International Limited
+DAC,Danaos Corporation
+DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share"
+DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
+DBD,Diebold Nixdorf Incorporated
+DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest
+DCH,Dauch Corporation
+DCO,Ducommun Incorporated
+DDD,3D Systems Corporation
+DDS,"Dillard's, Inc"
+DEA,"Easterly Government Properties, Inc"
+DEI,"Douglas Emmett, Inc"
+DFH,"Dream Finders Homes, Inc. Class A"
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc
+DHF,BNY Mellon High Yield Strategies Fund
+DHX,"DHI Group, Inc"
+DINO,HF Sinclair Corporation
+DK,"Delek US Holdings, Inc"
+DKS,Dick's Sporting Goods Inc
+DLNG,Dynagas LNG Partners LP Common Units
+DLY,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
+DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc"
+DMO,Western Asset Mortgage Opportunity Fund Inc
+DNOW,DNOW Inc
+DOCN,"DigitalOcean Holdings, Inc"
+DOLE,Dole plc
+DPC,DPC Holdings PLC
+DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five"
+DRLL,Strive U.S. Energy ETF
+DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc"
+DSTX,Distillate International Fundamental Stability & Value ETF
+DSX,Diana Shipping inc
+DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
+DTG,DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures
+DTM,"DT Midstream, Inc"
+DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078
+DV,"DoubleVerify Holdings, Inc"
+DXC,DXC Technology Company
+DY,"Dycom Industries, Inc"
+EAF,GrafTech International Ltd
+EARN,Ellington Credit Company Common Shares of Beneficial Interest
+EBF,"Ennis, Inc"
+EC,Ecopetrol S.A
+ECC,Eagle Point Credit Company Common Share of Beneficial Interest
+ECCU,Eagle Point Credit Company 7.75% Notes due 2030
+ECG,"Everus Construction Group, Inc"
+ECVT,Ecovyst Inc
+EDF,Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest
+EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)"
+EEA,"The European Equity Fund, Inc"
+EFOR,"Everforth, Inc"
+EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
+EGO,Eldorado Gold Corporation
+EGY,"VAALCO Energy, Inc"
+EHI,Western Asset Global High Income Fund Inc
+EICA,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026
+EIIA,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029
+ELC,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066"
+ELLA,Ellington Credit Company 8.50% Notes due 2031
+ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
+EMA,Emera Incorporated Common Shares
+EMD,Western Asset Emerging Markets Debt Fund Inc
+EMN,Eastman Chemical Company
+EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066"
+ENHA,Enhanced Group Inc. Class A
+ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052"
+ENOV,Enovis Corporation
+ENS,EnerSys
+EOD,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest
+EOS,Eaton Vance Enhance Equity Income Fund II
+EPAC,Enerpac Tool Group Corp
+EPC,Edgewell Personal Care Company
+EPR,EPR Properties
+EQBK,"Equity Bancshares, Inc. Class A"
+EQNR,Equinor ASA
+ERO,Ero Copper Corp. Common Shares
+EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests"
+ESE,ESCO Technologies Inc
+ESNT,Essent Group Ltd. Common Shares
+ESTC,Elastic N.V
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
+ETO,Eaton Vance Tax-Advantage Global Dividend Opp
+ETSY,"Etsy, Inc"
+ETW,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest
+EVC,Entravision Communications Corporation
+EVF,Eaton Vance Senior Income Trust
+EVH,"Evolent Health, Inc Class A"
+EVN,Eaton Vance Municipal Income Trust
+EVT,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
+EVTL,Vertical Aerospace Ltd
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest
+EXP,Eagle Materials Inc
+FBIN,"Fortune Brands Innovations, Inc"
+FBP,First BanCorp. New
+FC,Franklin Covey Company
+FCF,First Commonwealth Financial Corporation
+FCPT,"Four Corners Property Trust, Inc"
+FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10"
+FENG,"Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares"
+FET,"Forum Energy Technologies, Inc"
+FFA,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest
+FG,"F&G Annuities & Life, Inc"
+FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065"
+FHN,First Horizon Corporation
+FIGS,"FIGS, Inc. Class A"
+FINV,FinVolution Group
+FIXT,TCW Core Plus Bond ETF
+FLG,"Flagstar Bank, N.A"
+FLO,"Flowers Foods, Inc"
+FLR,Fluor Corporation
+FLUT,Flutter Entertainment plc
+FMC,FMC Corporation
+FMS,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share)
+FMY,First Trust Mortgage Income Fund Common Shares of Beneficial Interest
+FNB,F.N.B. Corporation
+FNF,"Fidelity National Financial, Inc"
+FOA,Finance of America Companies Inc. Class A
+FOIL,"Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five"
+FOUR,"Shift4 Payments, Inc. Class A"
+FPH,"Five Point Holdings, LLC Class A Common Shares"
+FPS,"Forgent Power Solutions, Inc. Class A"
+FRA,Blackrock Floating Rate Income Strategies Fund Inc
+FSCO,FS Credit Opportunities Corp
+FSM,Fortuna Mining Corp. Common Shares
+FSSL,FS Specialty Lending Fund Common Shares of Beneficial Interest
+FTHY,First Trust High Yield Opportunities 2027 Term Fund
+FTK,"Flotek Industries, Inc"
+FTS,Fortis Inc. Common Shares
+FTWO,Strive Natural Resources and Security ETF
+FUL,H. B. Fuller Company
+FVR,"FrontView REIT, Inc"
+FXED,Sound Enhanced Fixed Income ETF
+GAB,"Gabelli Equity Trust, Inc. (The)"
+GAP,"Gap, Inc. (The)"
+GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest
+GBX,"Greenbrier Companies, Inc. (The)"
+GCPB,Goldman Sachs Core Plus Bond ETF
+GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The)"
+GDL,"GDL Fund, The Common Shares of Beneficial Interest"
+GDOT,"Green Dot Corporation Class A Common Stock, $0.001 par value"
+GEF,Greif Inc. Class A
+GENI,Genius Sports Limited
+GF,"New Germany Fund, Inc. (The)"
+GFI,Gold Fields Limited
+GFR,Greenfire Resources Ltd. Common Shares
+GGG,Graco Inc
+GGZ,Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest
+GHG,"GreenTree Hospitality Group Ltd. American depositary shares, each representing one Class A ordinary share"
+GHM,Graham Corporation
+GIB,CGI Inc
+GIL,"Gildan Activewear, Inc. Class A Sub. Vot"
+GJO,"Synthetic Fixed-Income Securities, Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores, Inc. Securities, Series 2004-5"
+GJR,"Synthetic Fixed-Income Securities, Inc. STRATS Trust for Procter&Gamble Securities, Series 2006-1"
+GJT,"Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates, Series 2006-3"
+GLAS,Glass House Brands Inc. Subordinate Voting Shares
+GLOB,Globant S.A. Common Shares
+GME,GameStop Corporation
+GMMF,iShares Government Money Market ETF
+GNE,Genie Energy Ltd. Class B Common Stock Stock
+GNL,"Global Net Lease, Inc"
+GNW,Genworth Financial Inc
+GOLD,"Gold.com, Inc"
+GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares
+GPGI,"GPGI, Inc. Class A"
+GPJA,"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077"
+GPMT,Granite Point Mortgage Trust Inc
+GPRK,Geopark Ltd Common Shares
+GRC,Gorman-Rupp Company (The)
+GRND,Grindr Inc
+GROV,"Grove Collaborative Holdings, Inc. Class A"
+GSBD,"Goldman Sachs BDC, Inc"
+GSL,Global Ship Lease Inc New Class A Common Shares
+GTN,"Gray Media, Inc"
+GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
+GVA,Granite Construction Incorporated
+GWRE,"Guidewire Software, Inc"
+GYLD,Arrow Dow Jones Global Yield ETF ETF
+HAE,Haemonetics Corporation
+HASI,"HA Sustainable Infrastructure Capital, Inc"
+HAYW,"Hayward Holdings, Inc"
+HBM,Hudbay Minerals Inc. Ordinary Shares (Canada)
+HCI,"HCI Group, Inc"
+HDB,HDFC Bank Limited
+HEI,Heico Corporation
+HESM,Hess Midstream LP Class A Representing Limited Partner Interests
+HFEQ,Unlimited HFEQ Equity Long/Short ETF
+HFMF,Unlimited HFMF Managed Futures ETF
+HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest
+HGER,Harbor Commodity All-Weather Strategy ETF
+HGTY,"Hagerty, Inc. Class A"
+HHH,Howard Hughes Holdings Inc
+HIO,"Western Asset High Income Opportunity Fund, Inc"
+HIW,"Highwoods Properties, Inc"
+HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
+HLF,Herbalife Ltd. Common Shares
+HLIO,"Helios Technologies, Inc"
+HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares)
+HMN,Horace Mann Educators Corporation
+HNGE,"Hinge Health, Inc. Class A"
+HOG,"Harley-Davidson, Inc"
+HOS,"Hornbeck Offshore Services, Inc"
+HP,"Helmerich & Payne, Inc"
+HPI,John Hancock Preferred Income Fund Common Shares of Beneficial Interest
+HPS,John Hancock Preferred Income Fund III Preferred Income Fund III
+HQL,abrdn Life Sciences Investors Shares of Beneficial Interest
+HRB,"H&R Block, Inc"
+HRTG,"Heritage Insurance Holdings, Inc"
+HSHP,Himalaya Shipping Ltd. Common Shares
+HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
+HTGC,"Hercules Capital, Inc"
+HTT,"High Templar Tech Limited American depositary shares, each representing one Class A ordinary share"
+HUN,Huntsman Corporation
+HVT,"Haverty Furniture Companies, Inc"
+HY,"Hyster-Yale, Inc. Class A"
+HYI,Western Asset High Yield Opportunity Fund Inc
+HYTR,Counterpoint High Yield Trend ETF
+IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
+IBN,ICICI Bank Limited
+IBTA,"Ibotta, Inc. Class A"
+IDA,"IDACORP, Inc"
+IDT,IDT Corporation Class B
+IFS,Intercorp Financial Services Inc. Common Shares
+IGCB,TCW Corporate Bond ETF
+IGI,Western Asset Investment Grade Opportunity Trust Inc
+IH,"iHuman Inc. American depositary shares, each representing five Class A"
+IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)
+IIF,"Morgan Stanley India Investment Fund, Inc"
+IIM,Invesco Value Municipal Income Trust
+IMAX,Imax Corporation
+INFQ,"Infleqtion, Inc"
+ING,"ING Group, N.V"
+INGR,Ingredion Incorporated
+INR,"Infinity Natural Resources, Inc. Class A"
+INSW,"International Seaways, Inc"
+IONQ,"IonQ, Inc"
+IPB,"Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1"
+IQI,Invesco Quality Municipal Income Trust
+IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)
+ISD,"PGIM High Yield Bond Fund, Inc"
+ITT,ITT Inc
+IVAI,Ives Ultra AI Opportunities Inc
+IVT,InvenTrust Properties Corp
+JACS,Jackson Acquisition Company II Class A
+JBGS,JBG SMITH Properties Common Shares
+JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I
+JBS,JBS N.V. Class A Common Shares
+JCE,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
+JELD,"JELD-WEN Holding, Inc"
+JFR,Nuveen Floating Rate Income Fund
+JHI,John Hancock Investors Trust
+JHX,James Hardie Industries plc
+JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)
+JLS,Nuveen Mortgage and Income Fund
+JMKE,Jersey Mike's Subs Inc. Class A
+JOBY,"Joby Aviation, Inc"
+JOF,Japan Smaller Capitalization Fund Inc
+JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest
+JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest
+KAI,Kadant Inc
+KBDC,"Kayne Anderson BDC, Inc"
+KBR,"KBR, Inc"
+KEN,Kenon Holdings Ltd
+KEX,Kirby Corporation
+KFRC,"Kforce, Inc"
+KGC,Kinross Gold Corporation
+KIO,KKR Income Opportunities Fund Common Shares
+KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065
+KLC,"KinderCare Learning Companies, Inc"
+KMPR,Kemper Corporation
+KMX,CarMax Inc
+KNF,Knife Riv Holding Co
+KNSL,"Kinsale Capital Group, Inc"
+KNX,Knight-Swift Transportation Holdings Inc
+KOF,"Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)"
+KOS,Kosmos Energy Ltd. Common Shares
+KRC,Kilroy Realty Corporation
+KRG,Kite Realty Group Trust
+KRO,Kronos Worldwide Inc
+KRSP,Rice Acquisition Corporation 3 Class A
+KT,KT Corporation
+KTF,DWS Municipal Income Trust
+KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
+KWR,Quaker Houghton
+KYN,"Kayne Anderson Energy Infrastructure Fund, Inc"
+LAD,"Lithia Motors, Inc"
+LANV,Lanvin Group Holdings Limited
+LAW,"CS Disco, Inc"
+LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
+LCII,LCI Industries
+LCLN,"Lincoln International, Inc. Class A"
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc"
+LEO,"BNY Mellon Strategic Municipals, Inc"
+LEVI,Levi Strauss & Co Class A
+LGI,Lazard Global Total Return and Income Fund
+LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve"
+LNC,Lincoln National Corporation
+LNG,"Cheniere Energy, Inc"
+LOAR,Loar Holdings Inc
+LOCL,Local Bounti Corporation
+LPG,Dorian LPG Ltd
+LPX,Louisiana-Pacific Corporation
+LSPD,Lightspeed Commerce Inc. Subordinate Voting Shares
+LTH,"Life Time Group Holdings, Inc"
+LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2)"
+LUMN,"Lumen Technologies, Inc"
+LVWR,"LiveWire Group, Inc"
+LXFR,Luxfer Holdings PLC
+LXU,"LSB Industries, Inc"
+LYNX,Lyntris Inc
+LZM,Lifezone Metals Limited
+MAC,Macerich Company (The)
+MAIN,Main Street Capital Corporation
+MAN,ManpowerGroup
+MANU,Manchester United Ltd. Class A
+MATX,"Matson, Inc"
+MBC,"MasterBrand, Inc"
+MBI,MBIA Inc
+MCB,Metropolitan Bank Holding Corp
+MCN,XAI Madison Equity Premium Income Fund Common Shares
+MCY,Mercury General Corporation
+MDA,MDA Space Ltd. Common Shares
+MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)"
+MED,MEDIFAST INC
+MEI,"Methode Electronics, Inc"
+MFAN,"MFA Financial, Inc. 8.875% Senior Notes due 2029"
+MFC,Manulife Financial Corporation
+MFM,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest
+MFSG,MFS Active Growth ETF
+MFSM,MFS Active Intermediate Muni Bond ETF
+MG,Mistras Group Inc
+MGF,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest
+MGRB,"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060"
+MGRE,"Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064"
+MH,"McGraw Hill, Inc"
+MHF,"Western Asset Municipal High Income Fund, Inc"
+MHLA,"Maiden Holdings, Ltd. 6.625% Notes due 2046"
+MHO,"M/I Homes, Inc"
+MICC,The Magnum Ice Cream Company N.V
+MIR,"Mirion Technologies, Inc. Class A"
+MITP,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029"
+MIY,"Blackrock MuniYield Michigan Quality Fund, Inc"
+MLI,"Mueller Industries, Inc"
+MLR,"Miller Industries, Inc"
+MMI,"Marcus & Millichap, Inc"
+MMK,State Street Prime Money Market ETF
+MMS,"Maximus, Inc"
+MMU,"Western Asset Managed Municipals Fund, Inc"
+MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four"
+MOD,Modine Manufacturing Company
+MOH,Molina Healthcare Inc
+MP,MP Materials Corp
+MPLX,MPLX LP Common Units Representing Limited Partner Interests
+MPV,Barings Participation Investors
+MRP,"Millrose Properties, Inc. Class A"
+MSB,Mesabi Trust
+MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc"
+MSGE,Madison Square Garden Entertainment Corp. Class A
+MSIF,"MSC Income Fund, Inc"
+MT,Arcelor Mittal NY Registry Shares NEW
+MTDR,Matador Resources Company
+MTH,Meritage Homes Corporation
+MTNE,CH4 Natural Solutions Corporation Class A
+MTRN,Materion Corporation
+MTW,"Manitowoc Company, Inc. (The)"
+MTZ,"MasTec, Inc"
+MUC,"Blackrock MuniHoldings California Quality Fund, Inc"
+MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc"
+MUSA,Murphy USA Inc
+MUX,McEwen Inc
+MWA,MUELLER WATER PRODUCTS
+MXE,"Mexico Equity and Income Fund, Inc. (The)"
+MYE,"Myers Industries, Inc"
+MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock"
+NABL,"N-able, Inc"
+NAD,Nuveen Quality Municipal Income Fund
+NAT,Nordic American Tankers Limited
+NAZ,Nuveen Arizona Quality Municipal Income Fund
+NBHC,National Bank Holdings Corporation
+NBXG,Neuberger Next Generation Connectivity Fund Inc
+NCA,Nuveen California Municipal Value Fund
+NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest
+NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest
+NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01
+NEU,NewMarket Corp
+NFG,National Fuel Gas Company
+NGG,"National Grid Transco, PLC National Grid PLC (NEW)"
+NGS,"Natural Gas Services Group, Inc"
+NGVT,Ingevity Corporation
+NIC,Nicolet Bankshares Inc
+NIM,Nuveen Select Maturities Municipal Fund
+NIQ,NIQ Global Intelligence plc
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund
+NLOP,Net Lease Office Properties Common Shares of Beneficial Interest
+NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest
+NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares
+NMI,"Nuveen Municipal Income Fund, Inc"
+NMR,Nomura Holdings Inc ADR
+NMT,Nuveen Massachusetts Quality Municipal Income Fund
+NNI,"Nelnet, Inc"
+NNY,Nuveen New York Municipal Value Fund
+NOAH,Noah Holdings Limited
+NOK,Nokia Corporation Sponsored
+NOV,NOV Inc
+NPB,"Northpointe Bancshares, Inc"
+NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares
+NPKI,NPK International Inc
+NPV,Nuveen Virginia Quality Municipal Income Fund
+NRDY,Nerdy Inc. Class A
+NRGV,"Energy Vault Holdings, Inc"
+NRP,Natural Resource Partners LP Limited Partnership
+NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
+NTB,Bank of N.T. Butterfield & Son Limited (The) Voting
+NTST,NetSTREIT Corp
+NUS,"Nu Skin Enterprises, Inc"
+NUVB,Nuvation Bio Inc. Class A
+NVG,Nuveen AMT-Free Municipal Credit Income Fund
+NVO,Novo Nordisk A/S
+NVS,Novartis AG
+NVT,nVent Electric plc
+NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)"
+NX,Quanex Building Products Corporation
+NXDT,NexPoint Diversified Real Estate Trust
+NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
+NXRT,"NexPoint Residential Trust, Inc"
+NYT,New York Times Company (The)
+OBDC,Blue Owl Capital Corporation
+OC,Owens Corning Inc Common Stock New
+ODC,Oil-Dri Corporation Of America
+OFG,OFG Bancorp
+OGC,OceanaGold Corporation Common Shares
+OGG,Osisko Gold Group Inc. Common Shares
+OGS,"ONE Gas, Inc"
+OI,"O-I Glass, Inc"
+OII,"Oceaneering International, Inc"
+OKLO,Oklo Inc. Class A
+OLP,"One Liberty Properties, Inc"
+ONIT,Onity Group Inc
+ONON,On Holding AG Class A
+ONTO,Onto Innovation Inc
+OPFI,OppFi Inc. Class A
+OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc"
+OPY,"Oppenheimer Holdings, Inc. Class A Common Stock"
+ORA,"Ormat Technologies, Inc"
+ORI,Old Republic International Corporation
+OSCR,"Oscar Health, Inc. Class A"
+OTAX,Optimal Tax Managed Equity ETF
+OUT,OUTFRONT Media Inc
+OWL,Blue Owl Capital Inc. Class A
+OXM,"Oxford Industries, Inc"
+PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)"
+PACS,"PACS Group, Inc"
+PAGS,PagSeguro Digital Ltd. Class A Common Shares
+PAII,Pyrophyte Acquisition Corp. II Class A
+PAR,PAR Technology Corporation
+PATH,"UiPath, Inc. Class A"
+PAY,"Paymentus Holdings, Inc. Class A"
+PB,"Prosperity Bancshares, Inc"
+PBF,PBF Energy Inc. Class A
+PBI,Pitney Bowes Inc
+PBT,Permian Basin Royalty Trust
+PCM,"PCM Fund, Inc"
+PCOR,"Procore Technologies, Inc"
+PD,"PagerDuty, Inc"
+PDI,PIMCO Dynamic Income Fund
+PDO,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest
+PDS,Precision Drilling Corporation
+PDX,PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest
+PEN,"Penumbra, Inc"
+PERF,Perfect Corp. Class A Ordinary Share
+PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated
+PFH,"Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060"
+PFLA,PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031
+PFN,PIMCO Income Strategy Fund II
+PFS,"Provident Financial Services, Inc"
+PGP,Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest
+PHG,Koninklijke Philips N.V. NY Registry Shares
+PHIN,PHINIA Inc
+PHR,"Phreesia, Inc"
+PIM,Franklin Master Intermediate Income Trust Shares of Beneficial Interest
+PINS,"Pinterest, Inc. Class A"
+PJT,PJT Partners Inc. Class A
+PKE,Park Aerospace Corp
+PL,Planet Labs PBC Class A
+PLNT,"Planet Fitness, Inc"
+PLUN,Plutonian Acquisition Corp II Class A
+PMM,Franklin Managed Municipal Income Trust Shares of Beneficial Interest
+PMO,Franklin Municipal Opportunities Trust Shares of Beneficial Interest
+PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028
+PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
+PNFP,"Pinnacle Financial Partners, Inc"
+PNNT,PennantPark Investment Corporation
+POST,"Post Holdings, Inc"
+PPT,Franklin Premier Income Trust Shares of Beneficial Interest
+PRCS,Parnassus Core Select ETF
+PRGO,Perrigo Company plc
+PRI,"Primerica, Inc"
+PRKS,United Parks & Resorts Inc
+SPY,SPDR S&P 500
+QQQ,Invesco QQQ
+IWM,iShares Russell 2000
+DIA,SPDR Dow
+VTI,Vanguard Total Stock
+VOO,Vanguard S&P 500
+IVV,iShares Core S&P 500
+SCHB,Schwab U.S. Broad Market
+XLK,Technology SPDR
+XLF,Financial SPDR
+XLE,Energy SPDR
+XLV,Health Care SPDR
+XLI,Industrial SPDR
+XLP,Consumer Staples SPDR
+XLY,Consumer Disc SPDR
+XLU,Utilities SPDR
+XLB,Materials SPDR
+XLRE,Real Estate SPDR
+XLC,Communication SPDR
+EFA,iShares MSCI EAFE
+EEM,iShares Emerging Markets
+VEA,Vanguard FTSE Developed
+VWO,Vanguard Emerging Markets
+AGG,iShares Core Aggregate Bond
+BND,Vanguard Total Bond
+TLT,iShares 20+ Year Treasury
+LQD,iShares Investment Grade Corp
+HYG,iShares High Yield Corp
+GLD,SPDR Gold
+SLV,iShares Silver
+USO,US Oil Fund
+ARKK,ARK Innovation
+SOXX,iShares Semiconductor
+XBI,SPDR Biotech
+IBB,iShares Biotech
+TQQQ,ProShares UltraPro QQQ
+SQQQ,ProShares UltraPro Short QQQ
+UPRO,ProShares UltraPro S&P500
+SPXU,ProShares UltraPro Short S&P500
+SOXL,Direxion Semiconductor Bull 3X
+SOXS,Direxion Semiconductor Bear 3X
+BTC-USD,Bitcoin
+ETH-USD,Ethereum
+BNB-USD,BNB
+XRP-USD,XRP
+ADA-USD,Cardano
+SOL-USD,Solana
+DOGE-USD,Dogecoin
+DOT-USD,Polkadot
+AVAX-USD,Avalanche
+LINK-USD,Chainlink
+LTC-USD,Litecoin
+BCH-USD,Bitcoin Cash
+TRX-USD,TRON
+TON11419-USD,Toncoin
+EDLC-USD,Edelcoin
+KAS-USD,Kaspa
