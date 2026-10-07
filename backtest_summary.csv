@@ -313,7 +313,7 @@ AEP,Bearish,3,Weekly,60,5,0.09,-1.5
 AEP,Bullish,1,Weekly,65,23,-1.05,1.5
 AEP,Bullish,2,Weekly,60,5,-0.32,2.0
 AEP,Bullish,3,Weekly,100,3,8.7,5.6
-AER,Bearish,1,Daily,72,80,-0.93,-1.1
+AER,Bearish,1,Daily,73,81,-0.94,-1.2
 AER,Bearish,2,Daily,82,22,-1.26,-1.2
 AER,Bearish,3,Daily,70,10,-0.98,-1.7
 AER,Bullish,1,Daily,73,56,1.05,2.3
@@ -555,7 +555,7 @@ ALIZY,Bullish,3,Weekly,33,3,-6.01,-21.9
 ALL,Bearish,1,Daily,77,123,-1.32,-0.8
 ALL,Bearish,2,Daily,74,38,-0.34,-0.7
 ALL,Bearish,3,Daily,67,18,-0.39,-0.8
-ALL,Bullish,1,Daily,80,76,1.53,1.7
+ALL,Bullish,1,Daily,79,77,1.5,1.7
 ALL,Bullish,2,Daily,79,14,2.28,1.5
 ALL,Bullish,3,Daily,60,5,1.33,4.6
 ALL,Bearish,1,Monthly,58,12,2.72,-1.0
@@ -703,7 +703,7 @@ AME,Bearish,3,Weekly,100,1,-2.77,-2.8
 AME,Bullish,1,Weekly,75,16,5.52,6.1
 AME,Bullish,2,Weekly,75,4,5.39,11.0
 AME,Bullish,3,Weekly,100,1,2.53,2.5
-AMGN,Bearish,1,Daily,76,104,-1.26,-1.2
+AMGN,Bearish,1,Daily,76,105,-1.3,-1.2
 AMGN,Bearish,2,Daily,70,33,-0.3,-0.8
 AMGN,Bearish,3,Daily,71,14,-0.02,-1.1
 AMGN,Bullish,1,Daily,79,90,1.77,1.4
@@ -735,7 +735,7 @@ AMLP,Bearish,1,Daily,71,69,-0.44,-0.8
 AMLP,Bearish,2,Daily,71,21,-1.44,-1.9
 AMLP,Bearish,3,Daily,50,6,1.1,0.0
 AMLP,Bullish,1,Daily,82,50,1.97,2.0
-AMLP,Bullish,2,Daily,77,13,-0.84,1.7
+AMLP,Bullish,2,Daily,79,14,-0.62,1.8
 AMLP,Bullish,3,Daily,100,2,1.63,1.6
 AMLP,Bearish,1,Monthly,50,2,-0.67,-0.7
 AMLP,Bearish,2,Monthly,0,1,4.8,4.8
@@ -752,7 +752,7 @@ AMLP,Bullish,3,Weekly,0,2,-7.33,-7.3
 AMP,Bearish,1,Daily,72,93,-0.22,-0.6
 AMP,Bearish,2,Daily,79,39,-1.24,-0.8
 AMP,Bearish,3,Daily,73,15,-1.05,-1.7
-AMP,Bullish,1,Daily,85,47,3.17,2.8
+AMP,Bullish,1,Daily,85,48,3.11,2.6
 AMP,Bullish,2,Daily,93,14,8.73,3.3
 AMP,Bullish,3,Daily,100,4,6.34,6.2
 AMP,Bearish,1,Monthly,40,5,11.38,17.4
@@ -770,7 +770,7 @@ AMP,Bullish,3,Weekly,100,2,13.18,13.2
 AMT,Bearish,1,Daily,78,124,-1.35,-1.4
 AMT,Bearish,2,Daily,79,42,-2.01,-1.4
 AMT,Bearish,3,Daily,67,15,-0.38,-0.7
-AMT,Bullish,1,Daily,84,70,4.79,2.8
+AMT,Bullish,1,Daily,83,71,4.7,2.8
 AMT,Bullish,2,Daily,85,20,4.3,3.0
 AMT,Bullish,3,Daily,80,5,1.51,2.4
 AMT,Bearish,1,Monthly,56,9,4.56,-2.4
@@ -985,7 +985,7 @@ ARGT,Bearish,1,Daily,77,62,-1.08,-1.5
 ARGT,Bearish,2,Daily,83,18,-1.22,-1.1
 ARGT,Bearish,3,Daily,88,8,-2.19,-1.7
 ARGT,Bullish,1,Daily,71,56,1.24,2.0
-ARGT,Bullish,2,Daily,82,17,2.07,2.2
+ARGT,Bullish,2,Daily,83,18,2.15,2.2
 ARGT,Bullish,3,Daily,100,8,3.78,4.0
 ARGT,Bearish,1,Monthly,33,3,24.71,28.4
 ARGT,Bearish,2,Monthly,0,2,18.43,18.4
@@ -1471,7 +1471,7 @@ BG,Bearish,1,Daily,66,97,-0.5,-1.0
 BG,Bearish,2,Daily,72,40,-0.96,-1.0
 BG,Bearish,3,Daily,85,13,-0.9,-1.4
 BG,Bullish,1,Daily,78,78,1.9,1.8
-BG,Bullish,2,Daily,74,23,1.05,2.4
+BG,Bullish,2,Daily,71,24,0.98,2.4
 BG,Bullish,3,Daily,71,7,1.37,1.4
 BG,Bearish,1,Monthly,67,6,4.23,-5.4
 BG,Bearish,2,Monthly,100,2,-13.46,-13.5
@@ -1783,7 +1783,7 @@ BNY,Bearish,2,Daily,66,38,-0.54,-1.0
 BNY,Bearish,3,Daily,69,13,-1.14,-2.0
 BNY,Bullish,1,Daily,82,78,2.73,2.6
 BNY,Bullish,2,Daily,67,18,-0.0,0.4
-BNY,Bullish,3,Daily,83,6,1.98,0.2
+BNY,Bullish,3,Daily,71,7,1.54,0.2
 BNY,Bearish,1,Monthly,69,13,0.51,-6.7
 BNY,Bearish,2,Monthly,50,6,6.77,8.9
 BNY,Bearish,3,Monthly,50,4,7.21,7.7
@@ -1830,7 +1830,7 @@ BP,Bullish,3,Weekly,100,3,8.19,9.4
 BR,Bearish,1,Daily,73,88,-0.26,-0.6
 BR,Bearish,2,Daily,65,40,-0.46,-0.7
 BR,Bearish,3,Daily,83,18,-0.6,-1.0
-BR,Bullish,1,Daily,77,52,0.28,1.0
+BR,Bullish,1,Daily,75,53,0.25,0.9
 BR,Bullish,2,Daily,100,19,3.34,2.8
 BR,Bullish,3,Daily,75,4,1.72,2.4
 BR,Bearish,1,Monthly,57,7,4.09,-0.0
@@ -1863,7 +1863,7 @@ BRK-B,Bullish,3,Weekly,100,2,10.08,10.1
 BRO,Bearish,1,Daily,66,134,-0.13,-0.7
 BRO,Bearish,2,Daily,77,52,-0.79,-0.6
 BRO,Bearish,3,Daily,75,16,-1.15,-0.9
-BRO,Bullish,1,Daily,81,74,1.6,1.8
+BRO,Bullish,1,Daily,81,75,1.61,1.8
 BRO,Bullish,2,Daily,76,21,3.2,1.8
 BRO,Bullish,3,Daily,60,5,1.42,2.4
 BRO,Bearish,1,Monthly,67,12,0.17,-3.3
@@ -2090,7 +2090,7 @@ CAH,Bearish,2,Daily,73,55,-1.16,-1.3
 CAH,Bearish,3,Daily,65,23,-1.96,-0.4
 CAH,Bullish,1,Daily,78,86,1.76,1.6
 CAH,Bullish,2,Daily,79,29,3.33,3.6
-CAH,Bullish,3,Daily,80,10,4.77,2.3
+CAH,Bullish,3,Daily,82,11,4.87,3.1
 CAH,Bearish,1,Monthly,83,12,-0.84,-3.7
 CAH,Bearish,2,Monthly,83,6,-8.5,-5.4
 CAH,Bearish,3,Monthly,0,2,16.61,16.6
@@ -2238,7 +2238,7 @@ CCI,Bearish,2,Daily,89,28,-2.99,-1.5
 CCI,Bearish,3,Daily,100,8,-1.86,-1.8
 CCI,Bullish,1,Daily,76,96,2.45,2.0
 CCI,Bullish,2,Daily,81,31,3.42,1.8
-CCI,Bullish,3,Daily,91,11,2.55,1.9
+CCI,Bullish,3,Daily,92,12,2.4,1.6
 CCI,Bearish,1,Monthly,75,8,-4.84,-4.9
 CCI,Bearish,2,Monthly,75,4,-1.62,-3.8
 CCI,Bearish,3,Monthly,100,3,-2.0,-2.2
@@ -2344,7 +2344,7 @@ CF,Bullish,3,Weekly,100,2,28.66,28.7
 CFG,Bearish,1,Daily,80,54,-0.83,-1.2
 CFG,Bearish,2,Daily,65,23,-0.05,-0.7
 CFG,Bearish,3,Daily,88,8,-1.11,-1.8
-CFG,Bullish,1,Daily,64,28,0.42,2.4
+CFG,Bullish,1,Daily,62,29,0.38,2.4
 CFG,Bullish,2,Daily,69,13,-0.25,2.5
 CFG,Bullish,3,Daily,50,4,-3.76,-2.4
 CFG,Bearish,1,Monthly,75,4,1.16,-4.6
@@ -2403,7 +2403,7 @@ CHDRY,Bearish,2,Weekly,67,3,3.12,-0.4
 CHDRY,Bearish,3,Weekly,100,1,-5.47,-5.5
 CHDRY,Bullish,1,Weekly,100,7,5.47,5.1
 CHDRY,Bullish,2,Weekly,100,2,13.03,13.0
-CHH,Bearish,1,Daily,65,109,-0.29,-0.8
+CHH,Bearish,1,Daily,65,110,-0.32,-0.9
 CHH,Bearish,2,Daily,79,39,-1.34,-0.9
 CHH,Bearish,3,Daily,80,10,-1.03,-1.6
 CHH,Bullish,1,Daily,81,81,1.32,1.5
@@ -2463,7 +2463,7 @@ CHT,Bullish,2,Weekly,100,2,3.44,3.4
 CHTR,Bearish,1,Daily,75,65,-0.82,-1.3
 CHTR,Bearish,2,Daily,71,21,-0.08,-1.3
 CHTR,Bearish,3,Daily,62,8,-0.0,-0.7
-CHTR,Bullish,1,Daily,70,50,1.4,2.1
+CHTR,Bullish,1,Daily,69,51,1.37,2.0
 CHTR,Bullish,2,Daily,81,16,1.02,1.9
 CHTR,Bullish,3,Daily,100,6,3.51,3.5
 CHTR,Bearish,1,Monthly,60,5,5.58,-5.9
@@ -2478,7 +2478,7 @@ CHTR,Bullish,2,Weekly,100,1,4.84,4.8
 CI,Bearish,1,Daily,73,124,-0.66,-1.3
 CI,Bearish,2,Daily,72,46,-0.77,-1.0
 CI,Bearish,3,Daily,73,15,-0.73,-0.3
-CI,Bullish,1,Daily,77,77,0.59,1.3
+CI,Bullish,1,Daily,77,78,0.6,1.3
 CI,Bullish,2,Daily,81,21,4.11,3.9
 CI,Bullish,3,Daily,60,5,5.65,2.3
 CI,Bearish,1,Monthly,62,13,4.7,-0.4
@@ -2979,7 +2979,7 @@ CPRI,Bullish,3,Weekly,80,5,20.13,11.5
 CPRT,Bearish,1,Daily,71,128,-0.41,-1.0
 CPRT,Bearish,2,Daily,71,51,-1.1,-0.9
 CPRT,Bearish,3,Daily,71,17,-0.63,-0.4
-CPRT,Bullish,1,Daily,78,78,2.28,1.7
+CPRT,Bullish,1,Daily,78,79,2.28,1.9
 CPRT,Bullish,2,Daily,86,22,2.9,2.5
 CPRT,Bullish,3,Daily,80,5,1.51,1.6
 CPRT,Bearish,1,Monthly,80,10,-4.35,-7.6
@@ -3111,7 +3111,7 @@ CSCO,Bullish,3,Weekly,100,1,2.47,2.5
 CSGP,Bearish,1,Daily,76,103,-0.36,-1.3
 CSGP,Bearish,2,Daily,84,45,-1.69,-1.5
 CSGP,Bearish,3,Daily,87,15,-2.89,-2.9
-CSGP,Bullish,1,Daily,87,76,3.16,3.4
+CSGP,Bullish,1,Daily,87,77,3.16,3.4
 CSGP,Bullish,2,Daily,81,26,3.44,4.1
 CSGP,Bullish,3,Daily,57,7,-4.0,1.2
 CSGP,Bearish,1,Monthly,67,6,-0.57,-9.6
@@ -3805,7 +3805,7 @@ DTEGF,Bullish,2,Weekly,100,1,11.64,11.6
 DTEGY,Bearish,1,Daily,71,112,-0.85,-1.4
 DTEGY,Bearish,2,Daily,78,40,-0.72,-1.0
 DTEGY,Bearish,3,Daily,87,15,-2.85,-1.9
-DTEGY,Bullish,1,Daily,76,94,1.36,1.8
+DTEGY,Bullish,1,Daily,76,95,1.35,1.7
 DTEGY,Bullish,2,Daily,73,26,1.06,1.6
 DTEGY,Bullish,3,Daily,100,11,4.37,2.3
 DTEGY,Bearish,1,Monthly,100,5,-9.23,-3.8
@@ -4328,7 +4328,7 @@ EOG,Bullish,3,Weekly,100,1,8.36,8.4
 EPAM,Bearish,1,Daily,71,66,-0.8,-1.3
 EPAM,Bearish,2,Daily,75,24,-0.27,-1.0
 EPAM,Bearish,3,Daily,69,13,-0.69,-2.0
-EPAM,Bullish,1,Daily,78,37,1.57,2.0
+EPAM,Bullish,1,Daily,79,38,1.71,2.1
 EPAM,Bullish,2,Daily,77,13,4.4,3.0
 EPAM,Bullish,3,Daily,60,5,-1.62,0.3
 EPAM,Bearish,1,Monthly,40,5,26.06,28.9
@@ -4443,7 +4443,7 @@ EQT,Bullish,3,Weekly,0,1,-48.02,-48.0
 ERIE,Bearish,1,Daily,71,102,0.14,-0.8
 ERIE,Bearish,2,Daily,78,41,-0.78,-0.8
 ERIE,Bearish,3,Daily,70,20,-0.41,-1.0
-ERIE,Bullish,1,Daily,75,81,1.34,1.6
+ERIE,Bullish,1,Daily,76,82,1.32,1.5
 ERIE,Bullish,2,Daily,74,27,1.14,1.5
 ERIE,Bullish,3,Daily,85,13,1.91,1.4
 ERIE,Bearish,1,Monthly,57,7,7.0,-2.2
@@ -5077,6 +5077,7 @@ FDX,Bearish,3,Weekly,71,7,-0.47,-0.9
 FDX,Bullish,1,Weekly,89,28,6.27,4.8
 FDX,Bullish,2,Weekly,100,5,17.91,15.2
 FDX,Bullish,3,Weekly,0,1,-18.18,-18.2
+FDXF,Bullish,1,Daily,100,1,0.53,0.5
 FE,Bearish,1,Daily,73,127,-0.85,-1.0
 FE,Bearish,2,Daily,82,44,-1.45,-1.3
 FE,Bearish,3,Daily,75,16,-0.46,-1.3
@@ -5151,7 +5152,7 @@ FFIV,Bullish,3,Weekly,100,1,16.4,16.4
 FICO,Bearish,1,Daily,71,134,-0.8,-1.3
 FICO,Bearish,2,Daily,68,50,0.35,-0.8
 FICO,Bearish,3,Daily,61,23,-0.08,-0.6
-FICO,Bullish,1,Daily,73,89,0.58,1.3
+FICO,Bullish,1,Daily,73,90,0.72,1.3
 FICO,Bullish,2,Daily,80,30,2.91,2.5
 FICO,Bullish,3,Daily,86,7,2.67,1.7
 FICO,Bearish,1,Monthly,44,9,4.91,13.2
@@ -5389,7 +5390,7 @@ FNDX,Bullish,1,Weekly,50,2,-1.7,-1.7
 FOXA,Bearish,1,Daily,79,33,-1.58,-1.6
 FOXA,Bearish,2,Daily,100,6,-4.56,-2.0
 FOXA,Bearish,3,Daily,100,1,-2.25,-2.2
-FOXA,Bullish,1,Daily,71,24,0.65,2.2
+FOXA,Bullish,1,Daily,72,25,0.68,2.1
 FOXA,Bullish,2,Daily,89,9,3.57,4.0
 FOXA,Bullish,3,Daily,100,3,10.91,5.6
 FOXA,Bearish,1,Monthly,0,1,22.24,22.2
@@ -5583,7 +5584,7 @@ GEHC,Bullish,2,Weekly,100,1,5.16,5.2
 GEN,Bearish,1,Daily,71,113,-0.53,-1.4
 GEN,Bearish,2,Daily,73,41,-0.91,-1.2
 GEN,Bearish,3,Daily,72,18,0.4,-0.8
-GEN,Bullish,1,Daily,81,81,3.13,2.5
+GEN,Bullish,1,Daily,82,82,3.21,2.6
 GEN,Bullish,2,Daily,100,22,4.65,2.3
 GEN,Bullish,3,Daily,100,4,3.39,3.3
 GEN,Bearish,1,Monthly,62,8,-2.55,-7.0
@@ -5879,7 +5880,7 @@ GUNR,Bearish,2,Daily,67,24,0.13,-0.7
 GUNR,Bearish,3,Daily,50,8,1.13,1.3
 GUNR,Bullish,1,Daily,82,44,2.04,1.8
 GUNR,Bullish,2,Daily,85,13,2.73,1.7
-GUNR,Bullish,3,Daily,100,1,1.11,1.1
+GUNR,Bullish,3,Daily,100,2,1.27,1.3
 GUNR,Bearish,1,Monthly,67,3,-0.17,-2.7
 GUNR,Bearish,2,Monthly,100,1,-10.48,-10.5
 GUNR,Bullish,1,Monthly,100,2,16.16,16.2
@@ -6034,7 +6035,7 @@ HE,Bearish,1,Daily,78,115,-0.89,-0.9
 HE,Bearish,2,Daily,79,38,-0.36,-1.1
 HE,Bearish,3,Daily,75,8,-1.3,-1.8
 HE,Bullish,1,Daily,65,94,0.03,0.9
-HE,Bullish,2,Daily,84,37,-0.31,1.3
+HE,Bullish,2,Daily,82,38,-0.34,1.3
 HE,Bullish,3,Daily,62,8,-0.34,2.6
 HE,Bearish,1,Monthly,56,9,-1.36,-5.1
 HE,Bearish,2,Monthly,100,2,-11.6,-11.6
@@ -6486,7 +6487,7 @@ IBKR,Bullish,2,Weekly,100,1,1.57,1.6
 IBM,Bearish,1,Daily,71,109,-0.96,-0.8
 IBM,Bearish,2,Daily,69,42,-0.67,-1.1
 IBM,Bearish,3,Daily,83,18,-1.1,-1.0
-IBM,Bullish,1,Daily,83,93,1.58,1.5
+IBM,Bullish,1,Daily,83,94,1.6,1.5
 IBM,Bullish,2,Daily,73,22,0.54,1.2
 IBM,Bullish,3,Daily,88,8,2.64,2.6
 IBM,Bearish,1,Monthly,79,19,-3.91,-3.2
@@ -6714,7 +6715,7 @@ IGE,Bearish,2,Daily,69,39,-0.64,-1.1
 IGE,Bearish,3,Daily,55,11,0.01,-0.0
 IGE,Bullish,1,Daily,80,56,2.1,1.5
 IGE,Bullish,2,Daily,76,17,1.08,1.6
-IGE,Bullish,3,Daily,71,7,0.44,2.5
+IGE,Bullish,3,Daily,75,8,0.71,2.5
 IGE,Bearish,1,Monthly,78,9,-4.56,-6.7
 IGE,Bearish,2,Monthly,33,3,13.2,16.0
 IGE,Bullish,1,Monthly,100,1,23.99,24.0
@@ -6936,7 +6937,7 @@ INTC,Bullish,3,Weekly,100,1,2.72,2.7
 INTU,Bearish,1,Daily,74,125,-0.55,-1.1
 INTU,Bearish,2,Daily,82,39,-0.95,-1.6
 INTU,Bearish,3,Daily,73,15,-0.81,-1.9
-INTU,Bullish,1,Daily,84,73,2.96,2.2
+INTU,Bullish,1,Daily,84,74,3.03,2.2
 INTU,Bullish,2,Daily,84,19,5.08,2.9
 INTU,Bullish,3,Daily,83,6,5.48,1.6
 INTU,Bearish,1,Monthly,67,9,1.25,-4.9
@@ -6961,7 +6962,7 @@ INVH,Bearish,1,Weekly,67,6,-0.41,-1.9
 INVH,Bearish,2,Weekly,100,3,-0.97,-1.1
 INVH,Bullish,1,Weekly,83,6,3.34,2.6
 INVH,Bullish,2,Weekly,100,1,1.19,1.2
-IONQ,Bearish,1,Daily,68,19,2.7,-2.6
+IONQ,Bearish,1,Daily,70,20,2.46,-2.4
 IONQ,Bearish,2,Daily,88,8,-6.41,-8.9
 IONQ,Bearish,3,Daily,100,1,-13.67,-13.7
 IONQ,Bullish,1,Daily,58,19,-2.03,0.4
@@ -7587,7 +7588,7 @@ IYF,Bearish,2,Weekly,79,14,-1.07,-1.8
 IYF,Bearish,3,Weekly,80,5,-3.34,-4.1
 IYF,Bullish,1,Weekly,100,12,13.58,7.0
 IYH,Bearish,1,Daily,73,113,-0.42,-0.6
-IYH,Bearish,2,Daily,74,39,-0.44,-0.6
+IYH,Bearish,2,Daily,75,40,-0.5,-0.6
 IYH,Bearish,3,Daily,93,15,-0.84,-0.7
 IYH,Bullish,1,Daily,82,62,1.36,1.2
 IYH,Bullish,2,Daily,82,17,1.11,1.5
@@ -7810,7 +7811,7 @@ JKHY,Bullish,2,Weekly,100,8,10.48,9.3
 JLL,Bearish,1,Daily,76,115,-1.02,-1.5
 JLL,Bearish,2,Daily,74,35,-1.2,-1.5
 JLL,Bearish,3,Daily,62,13,-0.59,-0.7
-JLL,Bullish,1,Daily,73,77,1.74,3.0
+JLL,Bullish,1,Daily,72,78,1.7,2.9
 JLL,Bullish,2,Daily,67,21,4.51,0.9
 JLL,Bullish,3,Daily,75,8,0.03,0.7
 JLL,Bearish,1,Monthly,55,11,6.81,-2.1
@@ -7877,7 +7878,7 @@ JXI,Bearish,2,Daily,82,34,-0.79,-0.8
 JXI,Bearish,3,Daily,82,11,-0.56,-0.5
 JXI,Bullish,1,Daily,82,50,1.11,1.3
 JXI,Bullish,2,Daily,87,15,1.05,1.3
-JXI,Bullish,3,Daily,100,3,2.47,1.8
+JXI,Bullish,3,Daily,100,4,2.49,2.2
 JXI,Bearish,1,Monthly,80,5,-1.71,-3.8
 JXI,Bearish,2,Monthly,100,3,-9.6,-8.8
 JXI,Bullish,1,Monthly,100,1,19.87,19.9
@@ -8600,7 +8601,7 @@ LUMN,Bullish,1,Weekly,86,28,5.52,5.4
 LUMN,Bullish,2,Weekly,67,6,1.87,6.5
 LUMN,Bullish,3,Weekly,100,2,10.88,10.9
 LUV,Bearish,1,Daily,73,116,-0.69,-1.6
-LUV,Bearish,2,Daily,63,41,-0.63,-1.4
+LUV,Bearish,2,Daily,64,42,-0.64,-1.3
 LUV,Bearish,3,Daily,69,16,-0.2,-0.5
 LUV,Bullish,1,Daily,72,86,1.08,1.7
 LUV,Bullish,2,Daily,83,29,2.83,2.8
@@ -8635,7 +8636,7 @@ LVMHF,Bullish,3,Weekly,100,1,12.44,12.4
 LVMUY,Bearish,1,Daily,75,68,-0.7,-0.8
 LVMUY,Bearish,2,Daily,100,28,-2.34,-1.9
 LVMUY,Bearish,3,Daily,100,6,-3.94,-2.6
-LVMUY,Bullish,1,Daily,77,43,1.8,1.6
+LVMUY,Bullish,1,Daily,75,44,1.72,1.3
 LVMUY,Bullish,2,Daily,92,12,5.19,3.6
 LVMUY,Bullish,3,Daily,100,2,7.2,7.2
 LVMUY,Bearish,1,Monthly,38,8,4.88,12.7
@@ -9295,7 +9296,7 @@ MRK,Bullish,1,Weekly,88,32,5.15,5.7
 MRK,Bullish,2,Weekly,100,6,8.44,9.0
 MRK,Bullish,3,Weekly,100,1,4.4,4.4
 MRNA,Bearish,1,Daily,63,30,-0.27,-3.6
-MRNA,Bearish,2,Daily,70,10,-1.5,-4.0
+MRNA,Bearish,2,Daily,73,11,-2.08,-4.5
 MRNA,Bearish,3,Daily,33,3,8.85,12.5
 MRNA,Bullish,1,Daily,77,35,3.98,4.5
 MRNA,Bullish,2,Daily,89,9,3.64,4.1
@@ -9347,7 +9348,7 @@ MS,Bearish,2,Daily,86,43,-1.65,-1.8
 MS,Bearish,3,Daily,92,12,-1.9,-1.6
 MS,Bullish,1,Daily,74,88,2.15,2.8
 MS,Bullish,2,Daily,83,30,2.01,1.9
-MS,Bullish,3,Daily,86,7,6.66,3.4
+MS,Bullish,3,Daily,75,8,5.71,2.8
 MS,Bearish,1,Monthly,91,11,-6.34,-5.7
 MS,Bearish,2,Monthly,100,4,-14.69,-12.2
 MS,Bearish,3,Monthly,0,1,45.22,45.2
@@ -9529,7 +9530,7 @@ MU,Bullish,3,Weekly,60,5,9.06,8.0
 MUB,Bearish,1,Daily,65,94,-0.06,-0.1
 MUB,Bearish,2,Daily,67,36,-0.01,-0.1
 MUB,Bearish,3,Daily,73,22,-0.14,-0.2
-MUB,Bullish,1,Daily,68,78,0.22,0.2
+MUB,Bullish,1,Daily,68,79,0.23,0.2
 MUB,Bullish,2,Daily,73,26,0.24,0.2
 MUB,Bullish,3,Daily,73,11,0.24,0.2
 MUB,Bearish,1,Monthly,60,5,-0.67,-0.8
@@ -9695,7 +9696,7 @@ NET,Bullish,1,Weekly,100,2,28.1,28.1
 NFLX,Bearish,1,Daily,77,105,-2.05,-2.9
 NFLX,Bearish,2,Daily,72,32,-1.74,-1.9
 NFLX,Bearish,3,Daily,79,14,-2.45,-2.4
-NFLX,Bullish,1,Daily,79,72,3.13,2.6
+NFLX,Bullish,1,Daily,78,73,3.07,2.6
 NFLX,Bullish,2,Daily,79,19,0.91,3.1
 NFLX,Bullish,3,Daily,90,10,1.91,2.0
 NFLX,Bearish,1,Monthly,55,11,14.55,-2.7
@@ -9757,7 +9758,7 @@ NKE,Bullish,3,Weekly,100,1,1.92,1.9
 NMRK,Bearish,1,Daily,82,39,-2.16,-2.4
 NMRK,Bearish,2,Daily,82,11,-2.52,-3.0
 NMRK,Bearish,3,Daily,100,2,-7.86,-7.9
-NMRK,Bullish,1,Daily,50,32,-0.93,-1.5
+NMRK,Bullish,1,Daily,52,33,-0.85,0.5
 NMRK,Bullish,2,Daily,87,15,0.64,2.5
 NMRK,Bullish,3,Daily,100,4,2.91,3.1
 NMRK,Bearish,1,Monthly,0,1,45.19,45.2
@@ -9823,7 +9824,7 @@ NORW,Bearish,1,Daily,77,73,-0.46,-0.8
 NORW,Bearish,2,Daily,85,27,-1.32,-1.4
 NORW,Bearish,3,Daily,88,8,-1.62,-1.3
 NORW,Bullish,1,Daily,87,47,2.54,2.1
-NORW,Bullish,2,Daily,83,12,3.91,3.0
+NORW,Bullish,2,Daily,77,13,3.58,3.0
 NORW,Bullish,3,Daily,100,3,2.23,1.4
 NORW,Bearish,1,Monthly,80,5,-6.21,-5.4
 NORW,Bearish,2,Monthly,100,1,-2.33,-2.3
@@ -9855,7 +9856,7 @@ NRG,Bearish,2,Daily,63,35,0.51,-0.9
 NRG,Bearish,3,Daily,65,17,1.91,-0.7
 NRG,Bullish,1,Daily,76,76,2.8,2.9
 NRG,Bullish,2,Daily,77,22,3.67,1.6
-NRG,Bullish,3,Daily,89,9,2.72,2.5
+NRG,Bullish,3,Daily,90,10,3.11,2.6
 NRG,Bearish,1,Monthly,50,8,7.56,5.4
 NRG,Bearish,2,Monthly,67,3,-1.91,-7.2
 NRG,Bullish,1,Monthly,100,3,44.12,52.0
@@ -10053,7 +10054,7 @@ NVR,Bullish,1,Weekly,73,22,0.65,4.6
 NVR,Bullish,2,Weekly,89,9,7.04,3.7
 NVR,Bullish,3,Weekly,75,4,1.46,4.7
 NVS,Bearish,1,Daily,77,116,-0.66,-0.9
-NVS,Bearish,2,Daily,79,38,-0.72,-0.8
+NVS,Bearish,2,Daily,79,39,-0.79,-0.8
 NVS,Bearish,3,Daily,100,11,-1.41,-1.0
 NVS,Bullish,1,Daily,77,92,0.95,1.1
 NVS,Bullish,2,Daily,88,32,1.99,1.2
@@ -10271,7 +10272,7 @@ OKE,Bearish,1,Daily,75,126,-0.96,-1.1
 OKE,Bearish,2,Daily,69,48,-0.72,-1.0
 OKE,Bearish,3,Daily,60,20,-0.38,-0.5
 OKE,Bullish,1,Daily,83,86,2.7,2.5
-OKE,Bullish,2,Daily,68,22,0.75,1.2
+OKE,Bullish,2,Daily,70,23,0.83,1.4
 OKE,Bullish,3,Daily,78,9,1.44,1.3
 OKE,Bearish,1,Monthly,53,15,2.83,-4.2
 OKE,Bearish,2,Monthly,100,7,-13.44,-12.7
@@ -10396,7 +10397,7 @@ ORLY,Bullish,3,Weekly,100,1,22.78,22.8
 OTIS,Bearish,1,Daily,64,28,0.14,-0.4
 OTIS,Bearish,2,Daily,75,12,-0.7,-0.8
 OTIS,Bearish,3,Daily,100,3,-1.45,-0.6
-OTIS,Bullish,1,Daily,83,24,1.37,1.8
+OTIS,Bullish,1,Daily,84,25,1.37,1.7
 OTIS,Bullish,2,Daily,60,5,0.18,1.0
 OTIS,Bullish,3,Daily,100,4,2.41,1.9
 OTIS,Bearish,1,Monthly,0,1,34.73,34.7
@@ -10636,7 +10637,7 @@ PEG,Bullish,2,Weekly,100,2,2.32,2.3
 PENN,Bearish,1,Daily,74,88,-0.87,-1.3
 PENN,Bearish,2,Daily,82,40,-2.03,-2.2
 PENN,Bearish,3,Daily,88,16,-3.68,-2.8
-PENN,Bullish,1,Daily,78,104,3.27,2.8
+PENN,Bullish,1,Daily,78,105,3.32,2.9
 PENN,Bullish,2,Daily,86,28,4.38,3.7
 PENN,Bullish,3,Daily,86,7,6.13,8.8
 PENN,Bearish,1,Monthly,73,11,-9.55,-17.8
@@ -10719,7 +10720,7 @@ PG,Bullish,3,Weekly,100,1,32.91,32.9
 PGNY,Bearish,1,Daily,67,21,0.54,-0.9
 PGNY,Bearish,2,Daily,88,8,-1.46,-1.7
 PGNY,Bearish,3,Daily,100,1,-0.63,-0.6
-PGNY,Bullish,1,Daily,79,19,4.17,5.3
+PGNY,Bullish,1,Daily,80,20,4.19,4.9
 PGNY,Bullish,2,Daily,80,5,4.88,4.6
 PGNY,Bullish,3,Daily,0,1,-3.0,-3.0
 PGNY,Bearish,1,Monthly,100,1,-9.59,-9.6
@@ -11162,7 +11163,7 @@ PTEN,Bearish,1,Daily,84,120,-2.19,-2.5
 PTEN,Bearish,2,Daily,76,37,-1.07,-2.5
 PTEN,Bearish,3,Daily,93,15,-3.97,-2.6
 PTEN,Bullish,1,Daily,73,84,1.66,2.9
-PTEN,Bullish,2,Daily,84,31,5.5,4.8
+PTEN,Bullish,2,Daily,84,32,5.62,4.9
 PTEN,Bullish,3,Daily,89,9,5.98,6.2
 PTEN,Bearish,1,Monthly,82,11,-0.62,-12.0
 PTEN,Bearish,2,Monthly,100,2,-30.04,-30.0
@@ -11589,7 +11590,7 @@ ROK,Bullish,3,Weekly,100,2,13.76,13.8
 ROKU,Bearish,1,Daily,66,35,0.59,-1.3
 ROKU,Bearish,2,Daily,92,13,-5.32,-4.1
 ROKU,Bearish,3,Daily,0,1,10.54,10.5
-ROKU,Bullish,1,Daily,73,26,3.24,2.3
+ROKU,Bullish,1,Daily,74,27,3.15,1.9
 ROKU,Bullish,2,Daily,75,8,12.49,6.0
 ROKU,Bullish,3,Daily,100,2,2.28,2.3
 ROKU,Bearish,1,Monthly,100,2,-29.1,-29.1
@@ -11772,7 +11773,7 @@ RVTY,Bullish,3,Weekly,100,4,6.36,6.1
 RWO,Bearish,1,Daily,71,69,-0.48,-0.6
 RWO,Bearish,2,Daily,81,31,-0.64,-0.6
 RWO,Bearish,3,Daily,100,11,-1.27,-1.4
-RWO,Bullish,1,Daily,71,52,0.99,0.7
+RWO,Bullish,1,Daily,70,53,0.96,0.7
 RWO,Bullish,2,Daily,71,17,1.94,1.5
 RWO,Bullish,3,Daily,100,7,1.88,1.3
 RWO,Bearish,1,Monthly,75,4,-6.79,-6.8
@@ -11788,7 +11789,7 @@ RWO,Bullish,3,Weekly,100,1,5.03,5.0
 RWR,Bearish,1,Daily,74,118,-0.65,-0.9
 RWR,Bearish,2,Daily,85,48,-0.95,-1.0
 RWR,Bearish,3,Daily,73,15,-0.83,-0.8
-RWR,Bullish,1,Daily,83,63,1.16,1.6
+RWR,Bullish,1,Daily,81,64,1.13,1.4
 RWR,Bullish,2,Daily,78,18,4.29,1.9
 RWR,Bullish,3,Daily,100,7,1.93,2.0
 RWR,Bearish,1,Monthly,75,8,-2.76,-5.5
@@ -11894,7 +11895,7 @@ SBAC,Bearish,2,Daily,63,43,-1.23,-1.1
 SBAC,Bearish,3,Daily,57,21,-0.86,-0.5
 SBAC,Bullish,1,Daily,69,80,0.38,1.5
 SBAC,Bullish,2,Daily,74,27,3.35,2.1
-SBAC,Bullish,3,Daily,75,8,-8.39,2.1
+SBAC,Bullish,3,Daily,78,9,-6.99,3.1
 SBAC,Bearish,1,Monthly,75,12,-6.1,-7.0
 SBAC,Bearish,2,Monthly,75,4,-5.88,-9.4
 SBAC,Bearish,3,Monthly,100,1,-1.87,-1.9
@@ -11909,7 +11910,7 @@ SBSW,Bearish,2,Daily,67,18,0.55,-2.9
 SBSW,Bearish,3,Daily,50,8,1.13,0.8
 SBSW,Bullish,1,Daily,83,54,4.95,4.2
 SBSW,Bullish,2,Daily,82,17,6.37,5.9
-SBSW,Bullish,3,Daily,50,2,-1.18,-1.2
+SBSW,Bullish,3,Daily,67,3,-0.72,0.2
 SBSW,Bearish,1,Monthly,100,4,-10.21,-9.3
 SBSW,Bearish,2,Monthly,100,3,-41.91,-40.7
 SBSW,Bearish,3,Monthly,100,1,-53.73,-53.7
@@ -12476,7 +12477,7 @@ SNA,Bearish,1,Daily,73,105,-0.44,-0.9
 SNA,Bearish,2,Daily,78,40,-0.38,-1.2
 SNA,Bearish,3,Daily,81,16,-1.24,-1.5
 SNA,Bullish,1,Daily,76,86,0.37,1.4
-SNA,Bullish,2,Daily,89,27,3.41,1.9
+SNA,Bullish,2,Daily,89,28,3.31,1.9
 SNA,Bullish,3,Daily,89,9,5.16,2.8
 SNA,Bearish,1,Monthly,75,16,-4.22,-5.1
 SNA,Bearish,2,Monthly,71,7,-1.72,-3.0
@@ -13336,7 +13337,7 @@ TFI,Bearish,1,Daily,71,98,-0.02,-0.2
 TFI,Bearish,2,Daily,49,41,0.17,0.2
 TFI,Bearish,3,Daily,52,21,0.13,-0.0
 TFI,Bullish,1,Daily,71,76,0.16,0.1
-TFI,Bullish,2,Daily,75,32,0.18,0.2
+TFI,Bullish,2,Daily,76,33,0.21,0.2
 TFI,Bullish,3,Daily,56,9,-0.3,0.1
 TFI,Bearish,1,Monthly,60,5,-0.13,-0.5
 TFI,Bearish,2,Monthly,33,3,-0.21,2.8
@@ -13494,7 +13495,7 @@ TMFC,Bearish,3,Weekly,100,4,-1.84,-2.0
 TMFC,Bullish,1,Weekly,100,4,8.76,8.1
 TMFC,Bullish,2,Weekly,100,2,14.36,14.4
 TMO,Bearish,1,Daily,74,118,-0.53,-0.9
-TMO,Bearish,2,Daily,65,43,-0.17,-0.5
+TMO,Bearish,2,Daily,66,44,-0.25,-0.5
 TMO,Bearish,3,Daily,88,17,-1.3,-1.2
 TMO,Bullish,1,Daily,80,76,1.75,1.8
 TMO,Bullish,2,Daily,71,21,2.44,2.0
@@ -13835,7 +13836,7 @@ TT,Bullish,3,Weekly,75,4,9.44,11.0
 TTD,Bearish,1,Daily,72,43,-0.86,-2.6
 TTD,Bearish,2,Daily,69,13,-0.04,-2.4
 TTD,Bearish,3,Daily,83,6,-3.99,-5.0
-TTD,Bullish,1,Daily,78,37,5.01,5.5
+TTD,Bullish,1,Daily,79,38,4.9,5.4
 TTD,Bullish,2,Daily,89,9,5.57,4.1
 TTD,Bullish,3,Daily,33,3,-4.61,-8.4
 TTD,Bearish,1,Monthly,100,4,-31.31,-26.1
@@ -13849,7 +13850,7 @@ TTD,Bullish,3,Weekly,0,1,-17.88,-17.9
 TTEK,Bearish,1,Daily,77,118,-1.21,-1.7
 TTEK,Bearish,2,Daily,82,39,-2.76,-2.1
 TTEK,Bearish,3,Daily,86,14,-1.51,-1.3
-TTEK,Bullish,1,Daily,71,77,1.05,1.9
+TTEK,Bullish,1,Daily,72,78,1.04,1.8
 TTEK,Bullish,2,Daily,85,20,3.82,3.8
 TTEK,Bullish,3,Daily,83,6,0.81,1.8
 TTEK,Bearish,1,Monthly,62,8,3.3,-12.8
@@ -13988,7 +13989,7 @@ TZA,Bullish,3,Weekly,33,3,-13.2,-13.0
 UAA,Bearish,1,Daily,74,70,-1.54,-2.2
 UAA,Bearish,2,Daily,92,25,-4.0,-3.5
 UAA,Bearish,3,Daily,100,8,-4.94,-2.6
-UAA,Bullish,1,Daily,81,62,3.36,3.5
+UAA,Bullish,1,Daily,81,63,3.53,3.5
 UAA,Bullish,2,Daily,63,19,0.39,3.2
 UAA,Bullish,3,Daily,88,8,3.99,4.3
 UAA,Bearish,1,Monthly,60,5,5.1,-5.0
@@ -14625,7 +14626,7 @@ VICI,Bearish,1,Daily,74,35,-0.56,-0.7
 VICI,Bearish,2,Daily,100,8,-1.51,-1.1
 VICI,Bearish,3,Daily,100,4,-3.65,-1.7
 VICI,Bullish,1,Daily,65,23,-0.18,0.7
-VICI,Bullish,2,Daily,80,10,3.82,2.6
+VICI,Bullish,2,Daily,73,11,3.38,1.4
 VICI,Bullish,3,Daily,67,3,0.02,2.0
 VICI,Bearish,1,Monthly,0,1,12.25,12.2
 VICI,Bearish,2,Monthly,100,1,-12.31,-12.3
@@ -15154,7 +15155,7 @@ VTIP,Bearish,2,Daily,74,23,-0.33,-0.1
 VTIP,Bearish,3,Daily,100,8,-0.17,-0.1
 VTIP,Bullish,1,Daily,82,34,0.09,0.1
 VTIP,Bullish,2,Daily,71,14,-0.05,0.1
-VTIP,Bullish,3,Daily,50,4,-0.45,-0.5
+VTIP,Bullish,3,Daily,60,5,-0.35,0.1
 VTIP,Bearish,1,Monthly,100,3,-1.38,-1.0
 VTIP,Bearish,2,Monthly,100,1,-0.74,-0.7
 VTIP,Bullish,1,Monthly,100,1,0.44,0.4
@@ -15747,7 +15748,7 @@ WY,Bearish,1,Daily,70,97,-1.53,-1.2
 WY,Bearish,2,Daily,79,34,-1.13,-1.2
 WY,Bearish,3,Daily,90,10,-0.69,-1.1
 WY,Bullish,1,Daily,74,94,1.2,1.8
-WY,Bullish,2,Daily,83,29,1.82,1.8
+WY,Bullish,2,Daily,80,30,1.68,1.6
 WY,Bullish,3,Daily,80,10,3.31,2.7
 WY,Bearish,1,Monthly,100,10,-11.92,-13.0
 WY,Bearish,2,Monthly,100,3,-27.71,-9.6
@@ -15938,7 +15939,7 @@ XLP,Bullish,3,Weekly,100,1,0.94,0.9
 XLRE,Bearish,1,Daily,67,49,-0.88,-0.7
 XLRE,Bearish,2,Daily,84,19,-1.24,-0.8
 XLRE,Bearish,3,Daily,88,8,-2.3,-1.4
-XLRE,Bullish,1,Daily,69,26,1.08,0.8
+XLRE,Bullish,1,Daily,67,27,1.02,0.4
 XLRE,Bullish,2,Daily,78,9,4.09,1.7
 XLRE,Bullish,3,Daily,100,3,1.93,2.0
 XLRE,Bearish,1,Monthly,100,3,-6.0,-6.5

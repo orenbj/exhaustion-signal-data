@@ -6490,6 +6490,7 @@ AER,Bearish,1,Daily,2025-08-18,5.21,5
 AER,Bearish,1,Daily,2025-12-09,-0.11,3
 AER,Bearish,1,Daily,2026-04-14,-5.59,5
 AER,Bearish,1,Daily,2026-06-24,-4.04,5
+AER,Bearish,1,Daily,2026-09-28,-2.2,5
 AER,Bearish,2,Daily,2007-03-26,-3.67,2
 AER,Bearish,2,Daily,2010-03-11,-0.18,2
 AER,Bearish,2,Daily,2013-01-16,-0.89,1
@@ -10907,6 +10908,7 @@ ALL,Bullish,1,Daily,2025-01-13,4.69,3
 ALL,Bullish,1,Daily,2025-04-09,1.3,3
 ALL,Bullish,1,Daily,2025-10-21,0.54,1
 ALL,Bullish,1,Daily,2025-12-10,5.34,3
+ALL,Bullish,1,Daily,2026-09-29,-0.31,4
 ALL,Bullish,2,Daily,1999-10-07,2.13,5
 ALL,Bullish,2,Daily,2000-03-06,-7.49,5
 ALL,Bullish,2,Daily,2004-03-04,1.44,3
@@ -13456,6 +13458,7 @@ AMGN,Bearish,1,Daily,2025-11-11,-0.72,2
 AMGN,Bearish,1,Daily,2025-12-26,-3.67,5
 AMGN,Bearish,1,Daily,2026-02-27,-5.3,4
 AMGN,Bearish,1,Daily,2026-07-07,-3.49,5
+AMGN,Bearish,1,Daily,2026-09-29,-4.97,5
 AMGN,Bearish,2,Daily,1998-07-17,-1.29,3
 AMGN,Bearish,2,Daily,1999-11-16,5.91,4
 AMGN,Bearish,2,Daily,2000-11-17,-2.69,1
@@ -14060,6 +14063,7 @@ AMLP,Bullish,2,Daily,2020-03-02,-36.68,5
 AMLP,Bullish,2,Daily,2020-07-07,0.17,1
 AMLP,Bullish,2,Daily,2021-01-04,10.57,3
 AMLP,Bullish,2,Daily,2024-12-19,3.22,3
+AMLP,Bullish,2,Daily,2026-09-29,2.28,5
 AMLP,Bullish,3,Daily,2019-08-14,3.15,5
 AMLP,Bullish,3,Daily,2019-10-10,0.11,1
 AMLP,Bearish,1,Monthly,2021-07-01,-6.58,4
@@ -14294,6 +14298,7 @@ AMP,Bullish,1,Daily,2024-12-12,0.44,2
 AMP,Bullish,1,Daily,2025-10-20,2.53,5
 AMP,Bullish,1,Daily,2026-03-18,4.47,5
 AMP,Bullish,1,Daily,2026-06-01,1.78,3
+AMP,Bullish,1,Daily,2026-09-28,0.23,1
 AMP,Bullish,2,Daily,2005-10-13,3.16,5
 AMP,Bullish,2,Daily,2007-08-06,4.93,2
 AMP,Bullish,2,Daily,2008-07-07,5.96,1
@@ -14635,6 +14640,7 @@ AMT,Bullish,1,Daily,2025-09-08,1.5,3
 AMT,Bullish,1,Daily,2025-11-03,2.1,1
 AMT,Bullish,1,Daily,2026-05-15,7.85,3
 AMT,Bullish,1,Daily,2026-06-23,-8.81,5
+AMT,Bullish,1,Daily,2026-09-29,-1.54,5
 AMT,Bullish,2,Daily,1999-03-25,13.29,4
 AMT,Bullish,2,Daily,2001-03-23,6.7,2
 AMT,Bullish,2,Daily,2001-08-23,9.28,2
@@ -18601,6 +18607,7 @@ ARGT,Bullish,2,Daily,2020-09-21,0.47,1
 ARGT,Bullish,2,Daily,2021-10-12,5.0,5
 ARGT,Bullish,2,Daily,2021-11-30,4.92,5
 ARGT,Bullish,2,Daily,2023-10-04,4.3,5
+ARGT,Bullish,2,Daily,2026-09-28,3.53,5
 ARGT,Bullish,3,Daily,2012-04-10,1.93,2
 ARGT,Bullish,3,Daily,2013-02-22,1.28,3
 ARGT,Bullish,3,Daily,2013-06-24,6.42,5
@@ -27660,6 +27667,7 @@ BG,Bullish,2,Daily,2022-06-21,-11.47,2
 BG,Bullish,2,Daily,2024-01-17,-6.07,3
 BG,Bullish,2,Daily,2024-12-18,-1.53,1
 BG,Bullish,2,Daily,2025-07-09,1.45,2
+BG,Bullish,2,Daily,2026-09-29,-0.75,5
 BG,Bullish,3,Daily,2004-04-28,1.17,2
 BG,Bullish,3,Daily,2005-10-03,3.0,4
 BG,Bullish,3,Daily,2010-05-05,6.83,5
@@ -33240,6 +33248,7 @@ BNY,Bullish,3,Daily,2005-03-29,1.08,2
 BNY,Bullish,3,Daily,2005-09-27,-2.5,1
 BNY,Bullish,3,Daily,2016-01-20,0.25,4
 BNY,Bullish,3,Daily,2017-11-03,0.04,1
+BNY,Bullish,3,Daily,2026-09-29,-1.07,3
 BNY,Bearish,1,Monthly,1988-11-01,28.11,5
 BNY,Bearish,1,Monthly,1995-09-01,-9.68,1
 BNY,Bearish,1,Monthly,1997-04-01,23.1,3
@@ -34224,6 +34233,7 @@ BR,Bullish,1,Daily,2026-03-20,-9.72,5
 BR,Bullish,1,Daily,2026-05-12,0.73,4
 BR,Bullish,1,Daily,2026-06-17,0.34,4
 BR,Bullish,1,Daily,2026-09-10,3.66,2
+BR,Bullish,1,Daily,2026-09-28,-1.09,3
 BR,Bullish,2,Daily,2008-09-17,10.26,2
 BR,Bullish,2,Daily,2008-10-10,13.03,1
 BR,Bullish,2,Daily,2009-06-24,3.52,5
@@ -35428,6 +35438,7 @@ BRO,Bullish,1,Daily,2025-09-12,-2.84,1
 BRO,Bullish,1,Daily,2025-11-06,4.95,4
 BRO,Bullish,1,Daily,2026-03-27,4.87,5
 BRO,Bullish,1,Daily,2026-05-04,0.71,3
+BRO,Bullish,1,Daily,2026-09-28,2.54,3
 BRO,Bullish,2,Daily,1998-11-18,1.84,4
 BRO,Bullish,2,Daily,1999-03-24,22.32,4
 BRO,Bullish,2,Daily,1999-08-02,-3.52,3
@@ -39758,6 +39769,7 @@ CAH,Bullish,3,Daily,2016-08-25,0.52,2
 CAH,Bullish,3,Daily,2017-08-17,1.44,5
 CAH,Bullish,3,Daily,2022-06-17,8.21,5
 CAH,Bullish,3,Daily,2023-03-08,-3.9,5
+CAH,Bullish,3,Daily,2026-09-28,5.82,5
 CAH,Bearish,1,Monthly,1988-10-01,-10.96,2
 CAH,Bearish,1,Monthly,1989-09-01,-3.11,4
 CAH,Bearish,1,Monthly,1991-06-01,-11.37,5
@@ -42524,6 +42536,7 @@ CCI,Bullish,3,Daily,2019-11-12,4.04,4
 CCI,Bullish,3,Daily,2022-06-17,12.07,4
 CCI,Bullish,3,Daily,2022-09-30,4.02,2
 CCI,Bullish,3,Daily,2024-12-19,0.45,4
+CCI,Bullish,3,Daily,2026-09-28,0.72,5
 CCI,Bearish,1,Monthly,2003-07-01,-4.95,2
 CCI,Bearish,1,Monthly,2004-11-01,-4.86,4
 CCI,Bearish,1,Monthly,2006-01-01,-10.37,2
@@ -44324,6 +44337,7 @@ CFG,Bullish,1,Daily,2024-12-12,0.35,1
 CFG,Bullish,1,Daily,2025-08-08,4.08,4
 CFG,Bullish,1,Daily,2025-10-20,3.76,4
 CFG,Bullish,1,Daily,2026-03-05,-4.37,5
+CFG,Bullish,1,Daily,2026-09-28,-0.73,4
 CFG,Bullish,2,Daily,2015-01-15,5.14,4
 CFG,Bullish,2,Daily,2016-01-15,-11.34,5
 CFG,Bullish,2,Daily,2016-06-20,3.8,3
@@ -45046,6 +45060,7 @@ CHH,Bearish,1,Daily,2025-07-03,-0.04,3
 CHH,Bearish,1,Daily,2026-01-12,-2.76,5
 CHH,Bearish,1,Daily,2026-04-20,-3.83,2
 CHH,Bearish,1,Daily,2026-08-26,-10.69,4
+CHH,Bearish,1,Daily,2026-09-29,-4.48,4
 CHH,Bearish,2,Daily,1997-05-28,-1.57,3
 CHH,Bearish,2,Daily,1997-07-15,-0.35,4
 CHH,Bearish,2,Daily,1998-09-23,-9.38,5
@@ -46347,6 +46362,7 @@ CHTR,Bullish,1,Daily,2025-10-21,-3.41,2
 CHTR,Bullish,1,Daily,2025-11-10,1.24,2
 CHTR,Bullish,1,Daily,2026-03-17,-6.08,1
 CHTR,Bullish,1,Daily,2026-05-06,2.38,1
+CHTR,Bullish,1,Daily,2026-09-28,-0.03,3
 CHTR,Bullish,2,Daily,2010-01-27,-3.25,5
 CHTR,Bullish,2,Daily,2010-06-07,2.28,2
 CHTR,Bullish,2,Daily,2010-08-31,0.74,1
@@ -46679,6 +46695,7 @@ CI,Bullish,1,Daily,2024-12-13,0.2,3
 CI,Bullish,1,Daily,2025-07-15,1.12,1
 CI,Bullish,1,Daily,2025-09-25,4.55,5
 CI,Bullish,1,Daily,2026-03-13,0.43,1
+CI,Bullish,1,Daily,2026-09-28,1.26,1
 CI,Bullish,2,Daily,1997-08-18,1.89,2
 CI,Bullish,2,Daily,1997-10-06,1.81,1
 CI,Bullish,2,Daily,1999-10-12,1.35,2
@@ -56026,6 +56043,7 @@ CPRT,Bullish,1,Daily,2025-06-02,0.41,1
 CPRT,Bullish,1,Daily,2025-07-17,2.05,4
 CPRT,Bullish,1,Daily,2025-09-24,-1.74,3
 CPRT,Bullish,1,Daily,2026-03-17,-4.49,2
+CPRT,Bullish,1,Daily,2026-09-29,1.88,4
 CPRT,Bullish,2,Daily,2002-01-16,5.41,5
 CPRT,Bullish,2,Daily,2002-03-04,3.0,1
 CPRT,Bullish,2,Daily,2002-07-24,11.37,3
@@ -58335,6 +58353,7 @@ CSGP,Bullish,1,Daily,2026-03-20,0.02,1
 CSGP,Bullish,1,Daily,2026-05-01,1.9,1
 CSGP,Bullish,1,Daily,2026-06-24,1.48,2
 CSGP,Bullish,1,Daily,2026-09-04,1.97,5
+CSGP,Bullish,1,Daily,2026-09-29,2.86,2
 CSGP,Bullish,2,Daily,1998-09-02,-4.0,5
 CSGP,Bullish,2,Daily,1999-07-29,-25.31,5
 CSGP,Bullish,2,Daily,1999-10-01,-13.26,5
@@ -71176,6 +71195,7 @@ DTEGY,Bullish,1,Daily,2025-11-04,2.48,5
 DTEGY,Bullish,1,Daily,2025-12-15,2.84,5
 DTEGY,Bullish,1,Daily,2026-03-12,1.7,3
 DTEGY,Bullish,1,Daily,2026-06-09,2.97,3
+DTEGY,Bullish,1,Daily,2026-09-29,0.37,4
 DTEGY,Bullish,2,Daily,2000-08-04,6.02,4
 DTEGY,Bullish,2,Daily,2001-02-20,2.42,4
 DTEGY,Bullish,2,Daily,2001-08-17,3.75,5
@@ -81858,6 +81878,7 @@ EPAM,Bullish,1,Daily,2025-10-17,10.3,5
 EPAM,Bullish,1,Daily,2026-02-25,7.57,2
 EPAM,Bullish,1,Daily,2026-05-05,-13.23,5
 EPAM,Bullish,1,Daily,2026-06-15,0.66,1
+EPAM,Bullish,1,Daily,2026-09-29,6.73,2
 EPAM,Bullish,2,Daily,2013-11-07,2.06,1
 EPAM,Bullish,2,Daily,2014-07-10,0.08,1
 EPAM,Bullish,2,Daily,2017-08-11,3.34,2
@@ -84085,6 +84106,7 @@ ERIE,Bullish,1,Daily,2025-04-29,2.39,3
 ERIE,Bullish,1,Daily,2025-09-08,0.72,4
 ERIE,Bullish,1,Daily,2025-11-07,0.82,4
 ERIE,Bullish,1,Daily,2026-09-04,0.43,5
+ERIE,Bullish,1,Daily,2026-09-29,0.36,5
 ERIE,Bullish,2,Daily,2000-04-24,6.73,4
 ERIE,Bullish,2,Daily,2000-11-10,0.49,1
 ERIE,Bullish,2,Daily,2001-06-27,2.84,4
@@ -97331,6 +97353,7 @@ FDX,Bullish,2,Weekly,2009-03-09,40.13,5
 FDX,Bullish,2,Weekly,2010-07-12,14.35,3
 FDX,Bullish,2,Weekly,2025-02-17,3.43,1
 FDX,Bullish,3,Weekly,2025-03-03,-18.18,5
+FDXF,Bullish,1,Daily,2026-09-28,0.53,4
 FE,Bearish,1,Daily,1997-11-26,1.86,2
 FE,Bearish,1,Daily,1998-03-12,-0.42,1
 FE,Bearish,1,Daily,1998-03-25,-2.22,3
@@ -98813,6 +98836,7 @@ FICO,Bullish,1,Daily,2025-02-24,8.9,4
 FICO,Bullish,1,Daily,2025-07-18,-0.68,1
 FICO,Bullish,1,Daily,2025-08-07,0.13,4
 FICO,Bullish,1,Daily,2025-10-20,3.99,5
+FICO,Bullish,1,Daily,2026-09-29,12.56,5
 FICO,Bullish,2,Daily,1996-11-21,2.54,4
 FICO,Bullish,2,Daily,1997-12-19,5.28,5
 FICO,Bullish,2,Daily,2001-09-18,-12.36,3
@@ -102689,6 +102713,7 @@ FOXA,Bullish,1,Daily,2025-10-15,2.05,4
 FOXA,Bullish,1,Daily,2026-01-22,0.76,1
 FOXA,Bullish,1,Daily,2026-02-13,1.46,2
 FOXA,Bullish,1,Daily,2026-06-25,15.6,5
+FOXA,Bullish,1,Daily,2026-09-29,1.36,4
 FOXA,Bullish,2,Daily,2019-04-04,2.5,1
 FOXA,Bullish,2,Daily,2019-06-10,6.17,5
 FOXA,Bullish,2,Daily,2019-09-26,0.27,2
@@ -106036,6 +106061,7 @@ GEN,Bullish,1,Daily,2025-09-05,1.39,1
 GEN,Bullish,1,Daily,2025-10-07,-2.86,3
 GEN,Bullish,1,Daily,2026-02-25,2.29,1
 GEN,Bullish,1,Daily,2026-06-17,1.04,1
+GEN,Bullish,1,Daily,2026-09-29,9.35,5
 GEN,Bullish,2,Daily,1998-10-15,46.9,4
 GEN,Bullish,2,Daily,1999-02-10,4.79,1
 GEN,Bullish,2,Daily,2004-06-02,2.82,2
@@ -111651,6 +111677,7 @@ GUNR,Bullish,2,Daily,2024-06-18,1.12,1
 GUNR,Bullish,2,Daily,2026-04-29,1.72,1
 GUNR,Bullish,2,Daily,2026-09-25,-2.17,4
 GUNR,Bullish,3,Daily,2014-10-03,1.11,1
+GUNR,Bullish,3,Daily,2026-09-29,1.42,5
 GUNR,Bearish,1,Monthly,2018-03-01,5.37,2
 GUNR,Bearish,1,Monthly,2021-07-01,-3.2,2
 GUNR,Bearish,1,Monthly,2026-01-01,-2.69,5
@@ -115009,6 +115036,7 @@ HE,Bullish,2,Daily,2023-08-11,-62.87,4
 HE,Bullish,2,Daily,2023-10-06,5.65,2
 HE,Bullish,2,Daily,2024-06-21,1.27,1
 HE,Bullish,2,Daily,2026-08-11,0.68,1
+HE,Bullish,2,Daily,2026-09-29,-1.54,1
 HE,Bullish,3,Daily,2002-07-23,17.63,5
 HE,Bullish,3,Daily,2003-01-30,2.89,2
 HE,Bullish,3,Daily,2009-02-27,-11.54,4
@@ -123360,6 +123388,7 @@ IBM,Bullish,1,Daily,2025-08-05,0.64,1
 IBM,Bullish,1,Daily,2026-02-24,6.96,5
 IBM,Bullish,1,Daily,2026-06-17,0.99,3
 IBM,Bullish,1,Daily,2026-07-22,10.58,4
+IBM,Bullish,1,Daily,2026-09-29,2.56,2
 IBM,Bullish,2,Daily,2000-12-22,-4.85,2
 IBM,Bullish,2,Daily,2002-04-05,-13.43,4
 IBM,Bullish,2,Daily,2004-05-03,1.11,1
@@ -127775,6 +127804,7 @@ IGE,Bullish,3,Daily,2017-08-21,1.79,4
 IGE,Bullish,3,Daily,2017-10-25,2.91,5
 IGE,Bullish,3,Daily,2018-12-24,7.76,5
 IGE,Bullish,3,Daily,2024-12-16,-5.16,3
+IGE,Bullish,3,Daily,2026-09-29,2.57,5
 IGE,Bearish,1,Monthly,2004-01-01,9.54,5
 IGE,Bearish,1,Monthly,2005-01-01,14.18,5
 IGE,Bearish,1,Monthly,2006-01-01,-9.38,1
@@ -132504,6 +132534,7 @@ INTU,Bullish,1,Daily,2025-08-12,0.52,4
 INTU,Bullish,1,Daily,2025-10-08,-2.43,2
 INTU,Bullish,1,Daily,2026-02-23,16.55,5
 INTU,Bullish,1,Daily,2026-06-15,-8.52,4
+INTU,Bullish,1,Daily,2026-09-29,8.13,5
 INTU,Bullish,2,Daily,1997-08-25,15.76,3
 INTU,Bullish,2,Daily,2000-05-17,25.22,5
 INTU,Bullish,2,Daily,2000-07-26,10.58,5
@@ -132732,6 +132763,7 @@ IONQ,Bearish,1,Daily,2025-05-28,-16.65,5
 IONQ,Bearish,1,Daily,2025-09-19,-4.45,5
 IONQ,Bearish,1,Daily,2026-05-12,-13.3,5
 IONQ,Bearish,1,Daily,2026-08-11,7.83,4
+IONQ,Bearish,1,Daily,2026-09-29,-2.14,4
 IONQ,Bearish,2,Daily,2021-01-26,-4.7,3
 IONQ,Bearish,2,Daily,2022-02-15,-17.25,5
 IONQ,Bearish,2,Daily,2023-01-17,-7.59,2
@@ -145229,6 +145261,7 @@ IYH,Bearish,2,Daily,2024-01-09,-0.78,5
 IYH,Bearish,2,Daily,2024-05-16,-0.8,5
 IYH,Bearish,2,Daily,2024-08-26,1.17,4
 IYH,Bearish,2,Daily,2025-06-13,-2.71,4
+IYH,Bearish,2,Daily,2026-09-29,-2.78,2
 IYH,Bearish,3,Daily,2004-01-05,-0.14,5
 IYH,Bearish,3,Daily,2005-11-17,0.58,2
 IYH,Bearish,3,Daily,2007-04-20,-0.17,1
@@ -149997,6 +150030,7 @@ JLL,Bullish,1,Daily,2025-10-03,-4.05,5
 JLL,Bullish,1,Daily,2025-11-07,3.0,2
 JLL,Bullish,1,Daily,2026-03-13,1.54,3
 JLL,Bullish,1,Daily,2026-09-09,0.22,2
+JLL,Bullish,1,Daily,2026-09-29,-0.94,2
 JLL,Bullish,2,Daily,1998-10-09,6.6,5
 JLL,Bullish,2,Daily,1999-07-21,-9.49,2
 JLL,Bullish,2,Daily,2000-02-11,-6.81,3
@@ -151479,6 +151513,7 @@ JXI,Bullish,2,Daily,2026-09-25,0.16,5
 JXI,Bullish,3,Daily,2009-03-02,0.25,2
 JXI,Bullish,3,Daily,2021-02-26,1.81,1
 JXI,Bullish,3,Daily,2022-09-30,5.35,2
+JXI,Bullish,3,Daily,2026-09-29,2.56,5
 JXI,Bearish,1,Monthly,2011-05-01,-12.14,4
 JXI,Bearish,1,Monthly,2014-05-01,-3.77,4
 JXI,Bearish,1,Monthly,2019-09-01,-1.89,2
@@ -164823,6 +164858,7 @@ LUV,Bearish,2,Daily,2025-05-08,2.51,5
 LUV,Bearish,2,Daily,2025-12-09,10.54,5
 LUV,Bearish,2,Daily,2026-04-20,-9.73,3
 LUV,Bearish,2,Daily,2026-06-25,-3.53,5
+LUV,Bearish,2,Daily,2026-09-29,-1.05,1
 LUV,Bearish,3,Daily,2000-10-04,-1.7,5
 LUV,Bearish,3,Daily,2003-06-13,-0.65,4
 LUV,Bearish,3,Daily,2009-03-27,-0.96,1
@@ -165430,6 +165466,7 @@ LVMUY,Bullish,1,Daily,2026-02-06,0.63,2
 LVMUY,Bullish,1,Daily,2026-03-10,-7.05,3
 LVMUY,Bullish,1,Daily,2026-05-01,6.09,3
 LVMUY,Bullish,1,Daily,2026-09-09,0.93,3
+LVMUY,Bullish,1,Daily,2026-09-29,-1.84,1
 LVMUY,Bullish,2,Daily,2008-11-20,26.49,3
 LVMUY,Bullish,2,Daily,2013-12-16,1.07,2
 LVMUY,Bullish,2,Daily,2014-10-02,1.4,4
@@ -178439,6 +178476,7 @@ MRNA,Bearish,2,Daily,2021-07-27,17.66,5
 MRNA,Bearish,2,Daily,2024-01-02,-3.48,1
 MRNA,Bearish,2,Daily,2025-07-10,-7.88,3
 MRNA,Bearish,2,Daily,2025-12-22,-12.87,5
+MRNA,Bearish,2,Daily,2026-09-29,-7.86,5
 MRNA,Bearish,3,Daily,2019-02-19,-7.15,2
 MRNA,Bearish,3,Daily,2021-06-03,12.47,2
 MRNA,Bearish,3,Daily,2021-07-29,21.24,4
@@ -179553,6 +179591,7 @@ MS,Bullish,3,Daily,2012-05-21,3.41,5
 MS,Bullish,3,Daily,2013-10-09,6.95,5
 MS,Bullish,3,Daily,2016-01-20,1.47,2
 MS,Bullish,3,Daily,2018-12-24,9.16,5
+MS,Bullish,3,Daily,2026-09-29,-0.9,5
 MS,Bearish,1,Monthly,1995-10-01,-5.53,2
 MS,Bearish,1,Monthly,1997-06-01,26.12,5
 MS,Bearish,1,Monthly,2000-06-01,-23.87,5
@@ -183532,6 +183571,7 @@ MUB,Bullish,1,Daily,2026-03-12,0.37,2
 MUB,Bullish,1,Daily,2026-03-26,0.84,5
 MUB,Bullish,1,Daily,2026-07-27,0.19,1
 MUB,Bullish,1,Daily,2026-09-10,0.44,1
+MUB,Bullish,1,Daily,2026-09-29,1.06,2
 MUB,Bullish,2,Daily,2008-02-28,1.84,5
 MUB,Bullish,2,Daily,2008-06-24,1.01,4
 MUB,Bullish,2,Daily,2009-10-16,0.32,3
@@ -186362,6 +186402,7 @@ NFLX,Bullish,1,Daily,2026-01-14,-5.66,5
 NFLX,Bullish,1,Daily,2026-04-29,1.62,1
 NFLX,Bullish,1,Daily,2026-05-14,3.12,2
 NFLX,Bullish,1,Daily,2026-06-04,1.32,2
+NFLX,Bullish,1,Daily,2026-09-29,-1.02,1
 NFLX,Bullish,2,Daily,2004-04-30,13.53,3
 NFLX,Bullish,2,Daily,2006-07-21,3.08,1
 NFLX,Bullish,2,Daily,2007-01-19,3.06,4
@@ -187505,6 +187546,7 @@ NMRK,Bullish,1,Daily,2025-03-14,1.85,1
 NMRK,Bullish,1,Daily,2025-04-09,-6.7,2
 NMRK,Bullish,1,Daily,2025-10-06,-4.33,2
 NMRK,Bullish,1,Daily,2025-11-07,0.46,2
+NMRK,Bullish,1,Daily,2026-09-29,1.44,2
 NMRK,Bullish,2,Daily,2018-05-08,1.8,2
 NMRK,Bullish,2,Daily,2018-06-01,1.56,5
 NMRK,Bullish,2,Daily,2018-08-14,0.95,5
@@ -188661,6 +188703,7 @@ NORW,Bullish,2,Daily,2021-12-03,5.71,3
 NORW,Bullish,2,Daily,2022-09-30,8.97,2
 NORW,Bullish,2,Daily,2026-06-09,1.49,2
 NORW,Bullish,2,Daily,2026-07-01,4.63,4
+NORW,Bullish,2,Daily,2026-09-29,-0.42,4
 NORW,Bullish,3,Daily,2014-10-10,1.35,5
 NORW,Bullish,3,Daily,2018-08-16,4.53,4
 NORW,Bullish,3,Daily,2019-05-09,0.82,5
@@ -189161,6 +189204,7 @@ NRG,Bullish,3,Daily,2012-11-12,-3.91,2
 NRG,Bullish,3,Daily,2019-05-16,2.51,3
 NRG,Bullish,3,Daily,2020-09-23,7.78,5
 NRG,Bullish,3,Daily,2021-05-06,2.01,2
+NRG,Bullish,3,Daily,2026-09-29,6.62,5
 NRG,Bearish,1,Monthly,2005-01-01,-11.14,3
 NRG,Bearish,1,Monthly,2006-03-01,11.99,5
 NRG,Bearish,1,Monthly,2007-07-01,-1.19,1
@@ -193066,6 +193110,7 @@ NVS,Bearish,2,Daily,2025-04-29,-2.56,5
 NVS,Bearish,2,Daily,2025-06-13,-3.08,4
 NVS,Bearish,2,Daily,2025-12-29,-0.96,2
 NVS,Bearish,2,Daily,2026-02-19,-0.76,1
+NVS,Bearish,2,Daily,2026-09-29,-3.38,5
 NVS,Bearish,3,Daily,1997-02-12,-1.03,3
 NVS,Bearish,3,Daily,2010-09-15,-0.86,1
 NVS,Bearish,3,Daily,2014-05-16,-0.89,2
@@ -196918,6 +196963,7 @@ OKE,Bullish,2,Daily,2019-10-07,-3.56,1
 OKE,Bullish,2,Daily,2021-01-04,9.95,5
 OKE,Bullish,2,Daily,2024-12-13,-6.14,3
 OKE,Bullish,2,Daily,2025-10-15,0.97,5
+OKE,Bullish,2,Daily,2026-09-29,2.73,5
 OKE,Bullish,3,Daily,1998-07-27,-6.42,5
 OKE,Bullish,3,Daily,2002-07-22,11.84,5
 OKE,Bullish,3,Daily,2007-08-10,4.01,1
@@ -199265,6 +199311,7 @@ OTIS,Bullish,1,Daily,2026-03-16,0.63,1
 OTIS,Bullish,1,Daily,2026-03-27,2.84,5
 OTIS,Bullish,1,Daily,2026-04-29,1.67,1
 OTIS,Bullish,1,Daily,2026-05-20,2.1,2
+OTIS,Bullish,1,Daily,2026-09-29,1.25,5
 OTIS,Bullish,2,Daily,2020-10-30,3.75,5
 OTIS,Bullish,2,Daily,2022-09-01,0.95,3
 OTIS,Bullish,2,Daily,2022-09-28,2.52,5
@@ -203412,6 +203459,7 @@ PENN,Bullish,1,Daily,2026-03-17,3.58,5
 PENN,Bullish,1,Daily,2026-05-13,4.11,3
 PENN,Bullish,1,Daily,2026-08-20,1.14,1
 PENN,Bullish,1,Daily,2026-09-03,3.6,5
+PENN,Bullish,1,Daily,2026-09-29,8.9,5
 PENN,Bullish,2,Daily,1997-12-29,19.18,4
 PENN,Bullish,2,Daily,1998-08-28,8.14,3
 PENN,Bullish,2,Daily,2001-03-21,18.13,4
@@ -205119,6 +205167,7 @@ PGNY,Bullish,1,Daily,2025-03-07,-4.71,1
 PGNY,Bullish,1,Daily,2025-10-03,-2.87,2
 PGNY,Bullish,1,Daily,2026-02-05,0.14,1
 PGNY,Bullish,1,Daily,2026-08-17,2.49,3
+PGNY,Bullish,1,Daily,2026-09-29,4.52,5
 PGNY,Bullish,2,Daily,2021-08-19,13.59,5
 PGNY,Bullish,2,Daily,2023-10-27,4.62,5
 PGNY,Bullish,2,Daily,2025-03-12,8.39,5
@@ -213913,6 +213962,7 @@ PTEN,Bullish,2,Daily,2020-03-09,3.36,4
 PTEN,Bullish,2,Daily,2024-01-16,2.49,4
 PTEN,Bullish,2,Daily,2024-12-16,1.86,4
 PTEN,Bullish,2,Daily,2026-06-25,-12.28,4
+PTEN,Bullish,2,Daily,2026-09-29,9.48,4
 PTEN,Bullish,3,Daily,2001-06-25,6.19,1
 PTEN,Bullish,3,Daily,2003-07-16,8.24,2
 PTEN,Bullish,3,Daily,2006-12-22,1.02,2
@@ -221490,6 +221540,7 @@ ROKU,Bullish,1,Daily,2024-02-26,-2.07,5
 ROKU,Bullish,1,Daily,2024-11-27,22.49,4
 ROKU,Bullish,1,Daily,2025-04-08,15.9,1
 ROKU,Bullish,1,Daily,2026-02-09,2.7,1
+ROKU,Bullish,1,Daily,2026-09-29,0.83,4
 ROKU,Bullish,2,Daily,2018-12-21,12.32,5
 ROKU,Bullish,2,Daily,2020-03-17,39.94,5
 ROKU,Bullish,2,Daily,2021-08-13,-3.98,4
@@ -225199,6 +225250,7 @@ RWO,Bullish,1,Daily,2024-12-12,-5.5,5
 RWO,Bullish,1,Daily,2026-03-13,1.7,2
 RWO,Bullish,1,Daily,2026-08-11,1.53,2
 RWO,Bullish,1,Daily,2026-09-09,-1.94,5
+RWO,Bullish,1,Daily,2026-09-29,-0.9,5
 RWO,Bullish,2,Daily,2008-07-03,1.33,2
 RWO,Bullish,2,Daily,2008-10-16,3.76,2
 RWO,Bullish,2,Daily,2008-11-21,21.87,3
@@ -225510,6 +225562,7 @@ RWR,Bullish,1,Daily,2026-03-16,0.33,1
 RWR,Bullish,1,Daily,2026-03-30,3.33,5
 RWR,Bullish,1,Daily,2026-08-11,2.21,3
 RWR,Bullish,1,Daily,2026-09-09,-1.53,5
+RWR,Bullish,1,Daily,2026-09-29,-1.01,1
 RWR,Bullish,2,Daily,2001-09-24,4.72,4
 RWR,Bullish,2,Daily,2002-10-04,-6.1,3
 RWR,Bullish,2,Daily,2003-01-24,1.72,5
@@ -227586,6 +227639,7 @@ SBAC,Bullish,3,Daily,2023-02-24,0.98,5
 SBAC,Bullish,3,Daily,2024-11-07,1.06,1
 SBAC,Bullish,3,Daily,2025-10-09,5.3,5
 SBAC,Bullish,3,Daily,2026-03-24,3.21,5
+SBAC,Bullish,3,Daily,2026-09-29,4.23,5
 SBAC,Bearish,1,Monthly,2000-06-01,-28.28,5
 SBAC,Bearish,1,Monthly,2003-10-01,-15.23,1
 SBAC,Bearish,1,Monthly,2006-01-01,19.63,5
@@ -227815,6 +227869,7 @@ SBSW,Bullish,2,Daily,2026-03-18,-9.85,2
 SBSW,Bullish,2,Daily,2026-09-25,-6.13,5
 SBSW,Bullish,3,Daily,2023-02-23,-6.8,4
 SBSW,Bullish,3,Daily,2026-03-20,4.44,3
+SBSW,Bullish,3,Daily,2026-09-29,0.2,1
 SBSW,Bearish,1,Monthly,2014-04-01,-17.91,5
 SBSW,Bearish,1,Monthly,2019-08-01,-4.26,1
 SBSW,Bearish,1,Monthly,2021-02-01,-8.83,4
@@ -237850,6 +237905,7 @@ SNA,Bullish,2,Daily,2019-03-25,5.41,5
 SNA,Bullish,2,Daily,2020-03-20,13.69,4
 SNA,Bullish,2,Daily,2021-06-18,4.35,5
 SNA,Bullish,2,Daily,2022-09-06,3.57,4
+SNA,Bullish,2,Daily,2026-09-29,0.5,3
 SNA,Bullish,3,Daily,1998-09-01,19.33,4
 SNA,Bullish,3,Daily,2000-02-25,2.8,5
 SNA,Bullish,3,Daily,2002-01-17,2.35,5
@@ -253568,6 +253624,7 @@ TFI,Bullish,2,Daily,2023-02-22,0.31,1
 TFI,Bullish,2,Daily,2023-09-19,-1.96,5
 TFI,Bullish,2,Daily,2024-04-10,0.35,2
 TFI,Bullish,2,Daily,2026-09-10,0.25,1
+TFI,Bullish,2,Daily,2026-09-29,1.16,2
 TFI,Bullish,3,Daily,2012-08-16,0.62,5
 TFI,Bullish,3,Daily,2013-06-06,-1.14,5
 TFI,Bullish,3,Daily,2016-10-19,0.06,2
@@ -256242,6 +256299,7 @@ TMO,Bearish,2,Daily,2021-06-24,-0.5,1
 TMO,Bearish,2,Daily,2021-11-01,-2.88,4
 TMO,Bearish,2,Daily,2024-03-05,2.54,4
 TMO,Bearish,2,Daily,2025-01-22,-1.11,5
+TMO,Bearish,2,Daily,2026-09-29,-3.99,2
 TMO,Bearish,3,Daily,1997-06-13,-4.22,2
 TMO,Bearish,3,Daily,1998-10-30,-6.27,5
 TMO,Bearish,3,Daily,1999-05-05,-1.12,1
@@ -262929,6 +262987,7 @@ TTD,Bullish,1,Daily,2026-02-25,0.04,5
 TTD,Bullish,1,Daily,2026-03-23,-11.15,4
 TTD,Bullish,1,Daily,2026-06-12,-6.54,5
 TTD,Bullish,1,Daily,2026-07-24,10.41,3
+TTD,Bullish,1,Daily,2026-09-29,1.0,1
 TTD,Bullish,2,Daily,2017-03-28,4.08,1
 TTD,Bullish,2,Daily,2018-04-02,2.04,3
 TTD,Bullish,2,Daily,2019-09-17,-9.68,5
@@ -263221,6 +263280,7 @@ TTEK,Bullish,1,Daily,2025-02-24,0.4,1
 TTEK,Bullish,1,Daily,2026-03-17,-4.31,3
 TTEK,Bullish,1,Daily,2026-05-15,5.61,5
 TTEK,Bullish,1,Daily,2026-09-09,3.41,4
+TTEK,Bullish,1,Daily,2026-09-29,0.06,2
 TTEK,Bullish,2,Daily,2002-06-12,7.68,5
 TTEK,Bullish,2,Daily,2004-04-26,4.29,1
 TTEK,Bullish,2,Daily,2005-03-28,-19.21,4
@@ -265970,6 +266030,7 @@ UAA,Bullish,1,Daily,2025-07-18,7.43,3
 UAA,Bullish,1,Daily,2025-12-16,4.83,5
 UAA,Bullish,1,Daily,2026-03-05,-3.57,2
 UAA,Bullish,1,Daily,2026-08-11,0.37,3
+UAA,Bullish,1,Daily,2026-09-29,14.29,5
 UAA,Bullish,2,Daily,2006-08-10,3.71,4
 UAA,Bullish,2,Daily,2007-04-30,-11.88,3
 UAA,Bullish,2,Daily,2008-03-10,7.24,3
@@ -277413,6 +277474,7 @@ VICI,Bullish,2,Daily,2023-03-22,4.48,5
 VICI,Bullish,2,Daily,2023-10-03,4.24,5
 VICI,Bullish,2,Daily,2025-09-17,-3.59,3
 VICI,Bullish,2,Daily,2026-09-10,1.25,2
+VICI,Bullish,2,Daily,2026-09-29,-0.99,1
 VICI,Bullish,3,Daily,2018-08-03,3.74,3
 VICI,Bullish,3,Daily,2018-12-20,-5.65,2
 VICI,Bullish,3,Daily,2025-09-19,1.98,5
@@ -287095,6 +287157,7 @@ VTIP,Bullish,3,Daily,2013-05-30,0.08,2
 VTIP,Bullish,3,Daily,2014-12-17,-1.09,5
 VTIP,Bullish,3,Daily,2022-09-16,-1.24,5
 VTIP,Bullish,3,Daily,2023-05-26,0.46,3
+VTIP,Bullish,3,Daily,2026-09-29,0.06,1
 VTIP,Bearish,1,Monthly,2016-09-01,-0.99,3
 VTIP,Bearish,1,Monthly,2021-09-01,-2.89,4
 VTIP,Bearish,1,Monthly,2024-07-01,-0.25,5
@@ -299415,6 +299478,7 @@ WY,Bullish,2,Daily,2023-02-22,2.72,5
 WY,Bullish,2,Daily,2023-10-03,2.07,5
 WY,Bullish,2,Daily,2023-10-31,8.37,3
 WY,Bullish,2,Daily,2026-09-10,1.36,3
+WY,Bullish,2,Daily,2026-09-29,-2.56,1
 WY,Bullish,3,Daily,1997-10-27,2.68,5
 WY,Bullish,3,Daily,2007-03-26,-3.63,3
 WY,Bullish,3,Daily,2008-10-16,9.96,2
@@ -303147,6 +303211,7 @@ XLRE,Bullish,1,Daily,2024-12-12,-0.42,1
 XLRE,Bullish,1,Daily,2026-03-30,3.85,4
 XLRE,Bullish,1,Daily,2026-08-11,2.7,3
 XLRE,Bullish,1,Daily,2026-09-09,0.02,2
+XLRE,Bullish,1,Daily,2026-09-29,-0.58,5
 XLRE,Bullish,2,Daily,2016-01-20,3.78,4
 XLRE,Bullish,2,Daily,2017-09-28,0.84,5
 XLRE,Bullish,2,Daily,2020-03-23,25.77,5
